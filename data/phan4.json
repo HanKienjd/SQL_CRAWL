@@ -1,0 +1,552 @@
+[
+  {
+    "Cau": "Câu 1:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về các phụ thuộc đầy đủ:",
+      "A. Các thuộc tính vế phải không xác định vế trái.",
+      "B. Các thuộc tính vế trái không xác định các thuộc tính thuộc vế phải.",
+      "C. Các thuộc tính vế trái xác định vế phải.",
+      "D. Các thuộc tính vế trái không xác định vế phải."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 2:",
+    "question": [
+      "&nbsp;Phụ thuộc nào sau đây là phụ thuộc đầy đủ:",
+      "A. (Mã nhân viên, tên nhân viên) xác định đơn vị công tác.&nbsp;",
+      "B. (Số thứ tự, đơn vị) xác định ưôs thứ tự trong bảng lương.",
+      "C. Mã nhân viên xác định quá trình công tác nhân viêb đó&nbsp;",
+      "D. Số thứ tự xác định tiền lương của một nhân viên"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 3:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về bao đóng các thuộc tính:",
+      "A. Hợp tất cả vế phải của các phụ thuộc hàm",
+      "B. Bao đóng của X ứng với tập F là hợp của vế trái của các phụ thuộc hàm",
+      "C. Bao đóng của X ứng với tập F là hợp của vế phải của các phụ thuộc hàm",
+      "D. Thông tin về đối tượng ."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 4:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất là gì",
+      "A. Phụ thuộc có vế trái dư thừa là phụ thuộc bắc cầu",
+      "B. Phụ thuộc dư thừa có thể là phụ thuộc có vế trái dư thừa.",
+      "C. Phụ thuộc có vế trái dư thừa là phụ thuộc đầy đủ",
+      "D. Phụ thuộc dư thừa là phụ thuộc có vế trái dư thừa."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 5:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về khoá của lược đồ quan hệ:",
+      "A. Giá trị của mỗi thuộc tính có thể xác định duy nhất giá trị các thuộc tính khác.",
+      "B. Khoá gồm nhiều thuộc tính có khả năng biểu diễn các thuộc khác",
+      "C. Giá trị của một hay nhiều thuộc tính có thể xác định duy nhất giá trị các thuộc tính khác kể cả giá trị null.",
+      "D. Khoá là một thuộc tính hay một tập các thuộc tính có khả năng biểu diễn duy nhất các thuộc tính còn lại."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 6:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi tách quan hệ:",
+      "A. Đảm bảo tính toàn vẹn dữ liệu",
+      "B. &nbsp;Đảm bảo tính độc lập dữ liệu.&nbsp;",
+      "C. Làm tổn thất thông tin",
+      "D. Không làm tổn thất thông tin"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 7:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi tách - kết nối không tổn thất thông tin:",
+      "A. Quan hệ R được khôi phục từ phép kết nối tự nhiên các quan hệ chiếu",
+      "B. Thông tin của R có thể nhận được từ các quan hệ chiếu ứng với phép tách j .",
+      "C. Thông tin của R có thể nhận được từ các quan hệ khác",
+      "D. Quan hệ R được khôi phục từ phép kết nối các quan hệ chiếu"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 8:",
+    "question": [
+      "&nbsp;Chọn một khẳng định nào sau đây là đúng nhất: khi nói về mục tiêu",
+      "A. Tách quan hệ là thực hiện tối ưu truy vấn, tìm kiếm.",
+      "B. Tách quan hệ là thực hiện tối ưu lưu trữ, tiết kiệm bộ nhớ.",
+      "C. Tách quan hệ là nhằm đảm bảo tính độc lập dữ liệu.",
+      "D. Tách quan hệ là làm giảm nhẹ tính toán"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 9:",
+    "question": [
+      "&nbsp;Chọn một khẳng định nào sau đây là đúng nhất:",
+      "A. Khi thực hiện phép tách, quan hệ gốc bị tổn thất.",
+      "B. Khi thực hiện phép tách, quan hệ gốc có thể bị tổn thất.",
+      "C. Khi thực hiện phép tách, quan hệ gốc luôn luôn tổn thất.&nbsp;",
+      "D. Khi thực hiện phép tách, quan hệ gốc không tổn thất."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 10:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất ...",
+      "A. Khi thực hiện các phép lưu trữ trên các quan hệ chưa được chuẩn hoá thường xuất hiện dị thường thông tin.",
+      "B. Dữ liệu trong các quan hệ không đảm bảo tính toàn vẹn",
+      "C. Trong dữ liệu lưu trữ luôn luôn có sự dư thừa, không nhất quán dữ liệu",
+      "D. Dị thường thông tin là thường xuất hiện khi thực hiện truy vấn dữ liệu"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 11:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất:",
+      "A. Chuẩn hoá là quá trình loại bỏ dị thường thông tin và không tổn thất thông tin.",
+      "B. Chuẩn hoá là quá trình tách dữ liệu không làm tổn thất thông tin.",
+      "C. Chuẩn hoá là quá trình tách lược đồ quan hệ về các lược đồ quan hệ chuẩn cao và không làm tổn thất thông tin.",
+      "D. Chuẩn hoá là quá trình loại bỏ dị thường thông tin"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 12:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất....",
+      "A. Cấu trúc dữ liệu trong các quan hệ 1NF đơn giản",
+      "B. Cấu trúc dữ liệu trong các quan hệ 1NF cho phép sửa đổi bổ sung thuận tiện.",
+      "C. Cấu trúc dữ liệu trong các quan hệ 1NF gây khó khăn truy vấn thông tin.",
+      "D. Cấu trúc dữ liệu trong các quan hệ 1NF ản chứa dị thường thông tin"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 13:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất :",
+      "A. CREATE TABLE mô tả các thuộc tính",
+      "B. CREATE TABLE mô tả quan hệ và các thuộc tính",
+      "C. CREATE TABLE mô tả quan hệ",
+      "D. CREATE TABLE mô tả các phụ thuộc hàm."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 14:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về phép UNION:",
+      "A. Thuộc tính của quan hệ hợp là hợp các thuộc tính của các quan hệ nguồn",
+      "B. &nbsp;Các bộ của quan hệ hợp là hợp các bộ của các quan hệ nguồn",
+      "C. Hợp của 2 quan hệ khả hợp là một quan hệ khả hợp với các quan hệ nguồn",
+      "D. Hợp của 2 quan hệ là một quan hệ khả hợp với các quan hệ nguồn."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 15:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về phép giao:",
+      "A. Thuộc tính của quan hệ giao là giao các thuộc tính của các quan hệ nguồn",
+      "B. Giao của các quan hệ là một quan hệ",
+      "C. Các bộ của quan hệ giao là giao các bộ của các quan hệ nguồn",
+      "D. Giao của các quan hệ khả hợp là một quan hệ khả hợp"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 16:",
+    "question": [
+      "&nbsp;Chọn một khẳng định nào sau đây là đúng nhất khi nói về phép trừ:",
+      "A. Hiệu của các quan hệ cũng là quan hệ",
+      "B. Các bộ quan hệ kết quả là các bộ của các quan hệ nguồn.",
+      "C. Các quan hệ tham gia phép trừ&nbsp; không cần phải khả hợp.&nbsp;",
+      "D. Hiệu của các quan hệ khả hợp cũng là quan hệ khả hợp."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 17:",
+    "question": [
+      "Câu hỏi truy vấn có thể biểu diễn bằng:",
+      "A. Các phép toán đại số quan hệ và cây quan hệ",
+      "B. Các phép toán đại số quan hệ hoặc cây quan hệ.",
+      "C. Các phép toán đại số quan hệ,",
+      "D. Cây đại số quan hệ."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 18:",
+    "question": [
+      "Các phép toán trong tổ hợp SELECT- FROM - WHERE",
+      "A. Tich các quan hệ trong mệnh đề FROM, chọn theo biểu thức sau&nbsp;WHERE và chiếu trên các thuộc tính sau mệnh đề SELECT.",
+      "B. Tich các quan hệ trong mệnh đề FROM, chiếu trong WHERE và chọn&nbsp; trên các thuộc&nbsp; tính sau mệnh đề SELECT.",
+      "C. Kết nối các quan hệ sau mệnh đề FROM, chiếucác thuộc tính sau SELECT.",
+      "D. Kết&nbsp; nối&nbsp; tự&nbsp; nhiên&nbsp; các&nbsp; quan hệ sau&nbsp;&nbsp;&nbsp; mệnh đề SELECT, thoả mãn biểu thức logíc sau WHERE và chiếu trên các thuộc tính sau mệnh đề FROM"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 19:",
+    "question": [
+      "&nbsp;Chọn một khẳng định nào sau đây là đúng nhất khi thực hiện truy vấn",
+      "A. Thực hiện phép kết nối tự nhiên các quan hệ sau FROM",
+      "B. Thực hiện phép hợp các quan hệ sau FROM",
+      "C. Thực hiện phép chiếu trên sau mệnh đề WHERE.",
+      "D. Thực hiện phép chọn sau mệnh đề WHERE."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 20:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất",
+      "A. Phân loại theo các cột được mô tả sau GROUP BY.",
+      "B. Sắp xếp các bản ghi theo khoá được mô tả sau GROUP BY.",
+      "C. GROUP BY sẽ phân hoạch quan hệ thành nhiều nhóm tách biệt nhau.",
+      "D. GROUP BY sẽ chia dọc quan hệ thành nhiều nhóm"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 21:",
+    "question": [
+      "&nbsp;Chọn một khẳng định nào sau đây là đúng nhất khi thực hiện phép chiếu",
+      "A. Sau khi thực hiện phép chọn, phân loại.",
+      "B. Sau khi thực hiện phép chọn, các phép theo nhóm",
+      "C. Trước khi thực hiện phép chọn, các phép theo nhóm",
+      "D. Trước khi thực hiện phép chọn, phân loại."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 22:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất.....",
+      "A. Biến đổi một biểu thức đại số quan hệ về một biểu thức tương đương tối ưu.",
+      "B. Biến đổi các biểu thức đại số quan hệ về tương đương",
+      "C. Biến đổi một biểu thức đại số quan hệ với chi phí ít hơn rất nhiều",
+      "D. Biến đổi các biểu thức đại số quan hệ tối ưu lưu trữ"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 23:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất nhận xét khi thực hiện tối ưu hoá câu hỏi.",
+      "A. Thực hiện các phép chọn muộn hơn các phép chiếu thường thì tốt hơn",
+      "B. Phép chiếu sớm giảm tăng số các thuộc tính.",
+      "C. Các phép chọn sớm sẽ làm tăng dữ liệu",
+      "D. Thực hiện các phép chọn càng sớm không tốt hơn"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 24:",
+    "question": [
+      "Quá trình tối ưu hoá các câu hỏi truy vấn dữ liệu là quá trình:",
+      "A. Kết quả của các phép toán được biểu diễn duy nhất bằng một quan hệ.",
+      "B. Biến đổi câu hỏi sao cho chi phí thời gian và sử dụng bộ nhớ là ít nhất.&nbsp;",
+      "C. Chi phí thời gian thực hiện các phép toán là ít nhất.",
+      "D. Cần thiết phải biến đổi các câu hỏi hợp lý"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 25:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về an toàn CSDL",
+      "A. Cần có cơ chế kiểm soát, quản lý cơ sở dữ liệu",
+      "B. Các biện pháp bảo vệ an toàn thông tin trên mạng",
+      "C. Cần có các biện pháp bảo vệ chống truy nhập trái phép vào cơ sở dữ liệu",
+      "D. Các chiến lược truy nhập cơ sở dữ liệu."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 26:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về các nguy cơ không an toàn:",
+      "A. Nhiều người sử dụng truy nhập và khai thác trên cùng một cơ sở dữ liệu.",
+      "B. Truy xuất vào cơ sở dữ liệu bằng nhiều ngôn ngữ thao tác dữ liệu khác nhau.",
+      "C. Nhiều người trao đổi thông tin với nhau trên mạng",
+      "D. Rất nhiều loại dữ liệu được tải về lưu trữ trên các máy chủ mạng cục bộ"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 27:",
+    "question": [
+      "&nbsp;Chọn một khẳng định nào sau đây là đúng nhất khi nói về các biện pháp nhận diện người sử dụng:",
+      "A. Cần cung cấp phương tiện cho người sử dụng",
+      "B. Cần xác định các thao tác người sử dụng được phép thực hiện",
+      "C. Cung cấp các phương pháp truy nhập cho người sử dụng",
+      "D. Cần xác định các thao tác cho bất kỳ người sử dụng"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 28:",
+    "question": [
+      "&nbsp;Khảng định nào sau đây là đúng khi nói về thu hồi các quyền truy nhập cơ dữ liệu của người sử dụng:",
+      "A. REVOKE GRANT OPTION FOR SELECT ON BRANCH FROM U1",
+      "B. REVOKE&nbsp;&nbsp;&nbsp; READ ON R .FROM GROUP/WORLD",
+      "C. REVOKE &nbsp;SELECT ON&nbsp;&nbsp;&nbsp; BRANCH",
+      "D. REVOKE&nbsp;&nbsp;&nbsp; ON BRANCH FROM U1"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 29:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng&nbsp; để hoàn thiện khẳng định sau: Tìm kiếm và tra cứu thông&nbsp; tin là một trong những chức năng quan trọng và phổ biến nhất của dịch vụ cơ sở dữ liệu. Hệ quản trị cơ sở dữ liệu là. các chiến lược truy nhập CSDL.",
+      "A. Tài nguyên thông tin",
+      "B. Hệ thống các máy chủ lưu trữ CSDL",
+      "C. Hệ thống phần mềm điều khiển.",
+      "D. Hệ điều hành mạng"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 30:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng&nbsp; để hoàn thiện&nbsp; khẳng định sau:&nbsp;&nbsp; Trong cơ sở dữ liệu quan hệ, thực thể và mối quan hệ giữa các thực thể là hai đối tượng khác nhau về căn bản. Mối quan hệ giữa các thực thể cũng là một loại đặc biệt.",
+      "A. Cơ sở dữ liệu",
+      "B. Phụ thuộc hàm",
+      "C. Đối tượng dữ liệu.",
+      "D. Thực thể"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 31:",
+    "question": [
+      "&nbsp;Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Tổ chức lưu trữ dữ liệu theo lý thuyết cơ sở dữ liệu có thể tránh được sự không nhất quán trong lưu trữ dữ liệu và bảo đảm được................................................................................................................................. của dữ liệu.",
+      "A. Tính toàn vẹn.",
+      "B. Tính độc lập dữ liệu",
+      "C. An toàn",
+      "D. Quyền truy nhập cơ sở dữ liệu"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 32:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Người quản trị CSDL bảo đảm việc truy nhập CSDL. Kiểm tra, kiểm soát các quyền truy nhập của...................................................................................................................... Ngăn chặn các truy nhập trái phép, sai quy định từ trong ra hoặc từ ngoài vào...",
+      "A. Hệ quản trị cơ sở dữ liệu.",
+      "B. Người quản trị cơ sở dữ liệu.",
+      "C. Hệ ứng dụng",
+      "D. Người sử dụng."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 33:",
+    "question": [
+      "&nbsp;Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Mô hình kiến trúc CSDL có 3 mức, thể hiện ............",
+      "A. Tính nhất quán dữ liệu",
+      "B. Tính đơn giản thao tác dữ liệu",
+      "C. Tính toàn vẹn dữ liệu",
+      "D. Tính toàn độc lập dữ liệu"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 34:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng&nbsp; để hoàn thiện khẳng định sau: Có rất nhiều cách nhìn dữ&nbsp; liệu ở mô hình ngoài, nhưng biểu diễn toàn bộ thông tin trong CSDL là duy nhất.",
+      "A. Mô hình quan niệm.",
+      "B. &nbsp;Mô hình khái niệm.",
+      "C. Mô hình trong.",
+      "D. Mô hình ngoài."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 35:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Trong cơ sở dữ liệu, dữ liệu chỉ được biểu diễn, mô tả&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cấu trúc lưu trữ dữ liệu và các hệ chương trình ứng dụng trên các hệ CSDL độc lập với nhau.",
+      "A. Rõ ràng, logic.",
+      "B. Một cách duy nhất.",
+      "C. Chặt chẽ, logic.",
+      "D. Bằng nhiều cách khác nhau"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 36:",
+    "question": [
+      "&nbsp;Hãy chọn từ/cụm từ tương ứng &nbsp;để hoàn thiện khẳng định sau:&nbsp;&nbsp;&nbsp; Tính độc lập dữ liệu là “.&nbsp;&nbsp;&nbsp;............&nbsp; &nbsp;cuả các hệ ứng dụng đối với sự thay đổi trong cấu trúc lưu trữ và chiến lược truy nhập dữ liệu”.",
+      "A. Nội dung thông tin.",
+      "B. Phương thức truy nhập.",
+      "C. Tính tất biến",
+      "D. Các chiến lược truy nhập"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 37:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Có rất nhiều loại ràng buộc...........",
+      "A. Ràng buộc logic.",
+      "B. Ràng buộc giải tích và phụ thuộc hàm............",
+      "C. Phụ thuộc hàm",
+      "D. Ràng buộc về kiểu, ràng buộc giải tích và phụ thuộc hàm............"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 38:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Một mô hình dữ liệu là một hệ thống hình thức toán học, bao gồm các hệ thống các ký hiệu và tập &nbsp;hợp các&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; trên cơ sở dữ liệu.",
+      "A. Các phép lưu trữ dữ liệu.",
+      "B. Các phép tìm kiếm, tra cứu thông tin.",
+      "C. Phép toán thao tác.",
+      "D. Các phép toán đại số quan hệ."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 39:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Tổ chức dữ liệu theo mô&nbsp; hình nào là tốt nhất phụ thuộc vào yêu cầu.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; thông tin của tổ chức quản lý nó.",
+      "A. Tìm kiếm",
+      "B. Truy vấn",
+      "C. Cập nhật, bổ sung, sửa đổi.",
+      "D. Truy xuất và khai thác."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 40:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Trong mô hình CSDL phân cấp, dữ liệu được biểu diễn bằng cấu trúc cây. Một CSDL phân cấp là tập các cây. Trong mỗi một cây&nbsp; và dưới nó là tập các bản ghi phụ thuộc.",
+      "A. Chỉ chứa một và chỉ một bản ghi gốc.",
+      "B. Một bản ghi gốc và nhiều bản ghi phụ thuộc.&nbsp;",
+      "C. Một bản ghi gốc và một bản ghi phụ thuộc.",
+      "D. Nhiều bản ghi gốc."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 41:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Trong cấu trúc hình cây, khi sửa đổi một số thông tin trong các bản ghi phụ thuộc thì phải duyệt toàn bộ mô hình, bằng cách dò tìm trong từng xuất hiện. Dẫn đến sự xuất hiện ...........",
+      "A. Toàn ven dữ liệu trong lưu trữ.",
+      "B. An toàn ven dữ liệu.",
+      "C. Không nhất quán dữ liệu trong lưu trữ.",
+      "D. Tổn thất thông tin"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 42:",
+    "question": [
+      "&nbsp;Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Mô hình dữ liệu mạng là mô hình thực thể quan hệ, trong đó các mối liên kết hạn chế Không chứa liên kết nhiêu - nhiều.",
+      "A. Tính đối xứng",
+      "B. Trong kiểu một kiểu bản ghi liên kết",
+      "C. Trong kiểu một - một và nhiều - một.&nbsp;",
+      "D. Trong kiểu một bản ghi thực thể"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 43:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: CSDL mạng biểu diễn dữ liệu theo cấu trúc chặt chẽ. Các xuất hiện kiểu bản ghi được........",
+      "A. Kết nối với nhau bằng các xuất hiện kiểu bản ghi liên kết",
+      "B. Lưu trữ nhất quán và toàn vẹn",
+      "C. Mô tả chặt chẽ.",
+      "D. Biểu diễn có cấu trúc đối xứng."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 44:",
+    "question": [
+      "&nbsp;Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Cấu trúc dữ liệu trong mô hình CSDL mạng quá phức tạp vì&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vì vậy việc thiết kế và cài đặt cơ sở dữ liệu mạng thường rất khó khăn.",
+      "A. Mô hình dữ liệu mạng chứa nhiều thực thể.",
+      "B. Mô hình dữ liệu mạng chứa một thực thể.",
+      "C. Quá nhiều liên kết giữa các xuất hiện dữ liệu bằng các xuất hiện liên kết.",
+      "D. Mối liên kết giữa các thực thể biểu diễn không tường minh."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 45:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Quan hệ là.......... của một hoặc hữu hạn các miền. Các phần tử của quan hệ là các bộ bộ (a , a ,.., a ) n giá trị thành phần,1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nhay được gọi n_bộ.",
+      "A. Kết quả của phép hợp.",
+      "B. Kết quả của phép chiếu và chọn.",
+      "C. Kết quả của phép chiếu",
+      "D. Một tập con của tích Đề các"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 46:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Cơ sở dữ liệu quan hệ được biểu diễn.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; , các cột là thuôc tính và các hàng là tập n giá trị của thực thể, đối tượng.",
+      "A. Dưới dạng các File dữ liệu.",
+      "B. Cấu trúc hình cây.",
+      "C. Dưới dạng các bảng.",
+      "D. Cấu trúc hình mạng"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 47:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Ngôn ngữ dữ liệu quan hệ&nbsp;&nbsp; là. thao tác trên các dữ liệu dưới dạng quan hệ. Dữ liệu được biểu diễn một cách duy nhất.",
+      "A. Ngôn ngữ biểu diễn dữ liệu.",
+      "B. Tập các phép toán số học",
+      "C. Tập các phép toán có các cấu trúc quan hệ.",
+      "D. Ngôn ngữ mô tả các thực thể và mối liên kết các thực thể."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 48:",
+    "question": [
+      "&nbsp; Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Trong CSDL quan hệ, các phép toán lưu trữ là các phép chèn thêm, sửa đổi và loại bỏ. Khi thao tác&nbsp;..... và đảm bảo tính nhất quán dữ liệu.và tính toàn vẹn dữ liệu.",
+      "A. Không dị thường thông tin&nbsp;&nbsp;",
+      "B. Tổn thất thông tin",
+      "C. Bảo mật thông tin&nbsp;",
+      "D. Độc lập dữ liệu"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 49:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Cấu trúc dữ liệu trong mô hình CSDL quan hệ đơn giản, thông tin về các thực thể và ràng buộc của các thực thể ...............trong các bảng, trong suốt với người sử dụng.",
+      "A. Được biểu diễn duy nhât",
+      "B. Được biểu diễn bằng nhiều cách khác nhau.",
+      "C. Cấu trúc đơn giản",
+      "D. Mô tả logic."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 50:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Tính độc lập dữ liệu trong các hệ cơ sở dữ liệu quan hệ cao, thể hiện cấu trúc lưu trữ và chiến lược truy nhập có thể.........nhưng không thay đổi sơ đồ quan niệm và ngược lại.",
+      "A. Không thay đổi",
+      "B. Thay đổi",
+      "C. Phụ thuộc lẫn nhau",
+      "D. Độc lập lẫn nhau"
+    ],
+    "answer": "B"
+  }
+]

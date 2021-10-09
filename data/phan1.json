@@ -1,0 +1,556 @@
+[
+  {
+    "Cau": "Câu 1:",
+    "question": [
+      "Một hệ quản trị CSDL không có chức năng nào trong các chức năng dưới đây?",
+      "A. Cung cấp môi trường tạo lập CSDL",
+      "B. Cung cấp môi trường cập nhật và khai thác dữ liệu",
+      "C. Cung cấp công cụ quản lí bộ nhớ",
+      "D. Cung cấp công cụ kiểm soát, điều khiển truy cập vào CSDL."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 2:",
+    "question": [
+      "Ngôn ngữ định nghĩa dữ liệu thật chất là:",
+      "A. Ngôn ngữ lập trình Pascal",
+      "B. Ngôn ngữ C",
+      "C. Các kí hiệu toán học dùng để thực hiện các tính toán",
+      "D. Hệ thống các kí hiệu để mô tả CSDL"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 3:",
+    "question": [
+      "Ngôn ngữ định nghĩa dữ liệu bao gồm các lệnh cho phép:",
+      "A. Đảm bảo tính độc lập dữ liệu",
+      "B. Khai báo kiểu dữ liệu, cấu trúc dữ liệu và các ràng buộc trên dữ liệu của CSDL",
+      "C. Mô tả các đối tượng được lưu trữ trong CSDL",
+      "D. Khai báo kiểu dữ liệu của CSDL"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 4:",
+    "question": [
+      "Ngôn ngữ thao tác dữ liệu thật chất là:",
+      "A. Ngôn ngữ để người dùng diễn tả yêu cầu cập nhật hay khai thác thông tin",
+      "B. Ngôn ngữ để người dùng diễn tả yêu cầu cập nhật thông tin",
+      "C. Ngôn ngữ SQL",
+      "D. Ngôn ngữ bậc cao"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 5:",
+    "question": [
+      "Ngôn ngữ thao tác dữ liệu bao gồm các lệnh cho phép:",
+      "&nbsp;",
+      "A. Nhập, sửa, xóa dữ liệu",
+      "B. Khai báo kiểu, cấu trúc, các ràng buộc trên dữ liệu của CSDL",
+      "C. Khai thác dữ liệu như: tìm kiếm, sắp xếp, kết xuất báo cáo…",
+      "D. Câu A và C"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 6:",
+    "question": [
+      "Ngôn ngữ CSDL được sử dụng phổ biến hiện nay là:",
+      "A. SQL",
+      "B. Access",
+      "C. Foxpro",
+      "D. Java"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 7:",
+    "question": [
+      "Những nhiệm vụ nào dưới đây không thuộc nhiệm vụ của công cụ kiểm soát, điều khiển truy cập vào CSDL?",
+      "A. Duy trì tính nhất quán của CSDL",
+      "B. Cập nhật (thêm, sửa, xóa dữ liệu)",
+      "C. Khôi phục CSDL khi có sự cố",
+      "D. Phát hiện và ngăn chặn sự truy cập không được phép"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 8:",
+    "question": [
+      "Hệ QT CSDL có các chương trình thực hiện những nhiệm vụ:",
+      "A. Phát hiện và ngăn chặn sự truy cập không được phép, tổ chức và điều khiển các truy cập đồng thời",
+      "B. Duy trì tính nhất quán của dữ liệu, quản lý các mô tả dữ liệu",
+      "C. Khôi phục CSDL khi có sự cố ở phần cứng hay phần mềm",
+      "D. Cả 3 đáp án A, B và C"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 9:",
+    "question": [
+      "Người nào đã tạo ra các phần mềm ứng dụng đáp ứng nhu cầu khai thác thông tin từ CSDL?",
+      "A. gười dùng",
+      "B. Người lập trình ứng dụng",
+      "C. Người QT CSDL",
+      "D. Cả ba người trên"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 10:",
+    "question": [
+      "Người nào có vai trò quan trọng trong vấn đề phân quyền hạn truy cập sử dụng CSDL?",
+      "A. Người lập trình",
+      "B. Người dùng",
+      "C. Người quản trị&nbsp; &nbsp; &nbsp;",
+      "D. Nguời quản trị CSDL"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 11:",
+    "question": [
+      "Một hệ quản trị CSDL không có chức năng nào trong các chức năng dưới đây?",
+      "A. Cung cấp môi trường tạo lập CSDL",
+      "B. Cung cấp môi trường cập nhật và khai thác dữ liệu",
+      "C. Cung cấp công cụ quản lí bộ nhớ",
+      "D. Cung cấp công cụ kiểm soát, điều khiển truy cập vào CSDL"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 12:",
+    "question": [
+      "Ngôn ngữ định nghĩa dữ liệu thật chất là:",
+      "A. Ngôn ngữ lập trình Pascal\n\n&nbsp;",
+      "B. Ngôn ngữ C",
+      "C. Các kí hiệu toán học dùng để thực hiện các tính toán",
+      "D. Hệ thống các kí hiệu để mô tả CSDL"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 13:",
+    "question": [
+      "Ngôn ngữ định nghĩa dữ liệu bao gồm các lệnh cho phép:",
+      "A. Đảm bảo tính độc lập dữ liệu",
+      "B. Khai báo kiểu dữ liệu, cấu trúc dữ liệu và các ràng buộc trên dữ liệu của CSDL",
+      "C. Mô tả các đối tượng được lưu trữ trong CSDL",
+      "D. Khai báo kiểu dữ liệu của CSDL"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 14:",
+    "question": [
+      "Ngôn ngữ thao tác dữ liệu thật chất là:",
+      "A. Ngôn ngữ để người dùng diễn tả yêu cầu cập nhật hay khai thác thông tin",
+      "B. Ngôn ngữ để người dùng diễn tả yêu cầu cập nhật thông tin",
+      "C. Ngôn ngữ SQL",
+      "D. Ngôn ngữ bậc cao"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 15:",
+    "question": [
+      "Ngôn ngữ thao tác dữ liệu bao gồm các lệnh cho phép:",
+      "A. Nhập, sửa, xóa dữ liệu",
+      "B. Khai báo kiểu, cấu trúc, các ràng buộc trên dữ liệu của CSDL",
+      "C. Khai thác dữ liệu như: tìm kiếm, sắp xếp, kết xuất báo cáo…",
+      "D. Câu A và C"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 16:",
+    "question": [
+      "Ngôn ngữ CSDL được sử dụng phổ biến hiện nay là:",
+      "A. SQL",
+      "B. Access",
+      "C. Foxpro",
+      "D. Java"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 17:",
+    "question": [
+      "Những nhiệm vụ nào dưới đây không thuộc nhiệm vụ của công cụ kiểm soát, điều khiển truy cập vào CSDL?",
+      "A. Duy trì tính nhất quán của CSDL",
+      "B. Cập nhật (thêm, sửa, xóa dữ liệu)",
+      "C. Khôi phục CSDL khi có sự cố",
+      "D. Phát hiện và ngăn chặn sự truy cập không được phép"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 18:",
+    "question": [
+      "Hệ Quản trị CSDL có các chương trình thực hiện những nhiệm vụ:",
+      "A. Phát hiện và ngăn chặn sự truy cập không được phép, tổ chức và điều khiển các truy cập đồng thời",
+      "B. Duy trì tính nhất quán của dữ liệu, quản lý các mô tả dữ liệu",
+      "C. Khôi phục CSDL khi có sự cố ở phần cứng hay phần mềm",
+      "D. Cả 3 đáp án A, B và C"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 19:",
+    "question": [
+      "Chọn câu trả lời chính xác:",
+      "A. Hệ quản trị CSDL là một bộ phận của ngôn ngữ CSDL, đóng vai trò chương trình dịch cho ngôn ngữ CSDL",
+      "B. Người lập trình ứng dụng không được phép đồng thời là người quản trị hệ thống vì như vậy vi phạm quy tắc an toàn và bảo mật",
+      "C. Hệ quản trị CSDL hoạt động độc lập, không phụ thuộc vào hệ điều hành",
+      "D. Người quản trị CSDL phải hiểu biết sâu sắc và có kĩ năng tốt trong các lĩnh vực CSDL, hệ quản trị CSDL và môi trường hệ thống"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 20:",
+    "question": [
+      "Người nào đã tạo ra các phần mềm ứng dụng đáp ứng nhu cầu khai thác thông tin từ CSDL?",
+      "A. Người dùng",
+      "B. Người lập trình ứng dụng",
+      "C. Người quản trị CSDL",
+      "D. Cả ba người trên"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 21:",
+    "question": [
+      "Người nào có vai trò quan trọng trong vấn đề phân quyền hạn truy cập sử dụng CSDL?",
+      "&nbsp;",
+      "&nbsp;",
+      "&nbsp;",
+      "A. Người lập trình",
+      "B. Người dùng",
+      "C. Người quản trị",
+      "D. Nguời quản trị CSDL"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 22:",
+    "question": [
+      "Trong vai trò của con người khi làm việc với các hệ CSDL, người thiết kế và cấp phát quyền truy cập cơ sở dữ liệu là người?",
+      "A. Người lập trình ứng dụng",
+      "B. Người sử dụng (khách hàng)",
+      "C. Người quản trị cơ sở dữ liệu",
+      "D. Người bảo hành các thiết bị phần cứng của máy tính"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 23:",
+    "question": [
+      "Chức năng của hệ quản trị CSDL?",
+      "A. Cung cấp cách khai báo dữ liệu",
+      "B. Cung cấp môi trường tạo lập CSDL và công cụ kiểm soát, điều khiển việc truy cập vào CSDL",
+      "C. Cung cấp cách cập nhật dữ liệu, tìm kiếm và kết xuất thông tin",
+      "D. Câu B và C"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 24:",
+    "question": [
+      "Quy trình xây dựng CSDL là:",
+      "A. Khảo sát → Thiết kế → Kiểm thử",
+      "B. Khảo sát → Kiểm thử → Thiết kế",
+      "C. Thiết kế → Kiểm thử → Khảo sát",
+      "D. Thiết kế → Khảo sát → Kiểm thử"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 25:",
+    "question": [
+      "Cơ sở dữ liệu là:",
+      "A. Một bộ sưu tập rất lớn về các loại dữ liệu tác nghiệp, lưu trữ theo quy tắc.",
+      "B. Một bộ sưu tập rất lớn về các loại dữ liệu tác nghiệp",
+      "C. Tập các File dữ liệu tác nghiệp.",
+      "D. Kho dữ liệu tác nghiệp"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 26:",
+    "question": [
+      "Các loại dữ liệu bao gồm:",
+      "A. Tập các File số liệu",
+      "B. Âm thanh, tiếng nói, chữ viết, văn bản, đồ hoạ, hình ảnh tĩnh, hình ảnh động....",
+      "C. Âm thanh, tiếng nói, chữ viết, văn bản, đồ hoạ, hình ảnh tĩnh hay hình ảnh động.&nbsp; dưới dạng nhị phân.",
+      "D. Âm thanh, tiếng nói, chữ viết, văn bản, đồ hoạ, hình ảnh tĩnh hay hình ảnh động.... được lưu trữ trong các bộ nhớẻtong các dạng File."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 27:",
+    "question": [
+      "Cơ sở dữ liệu là tài nguyên thông tin chung, nghĩa là:",
+      "A. Truy nhập trực tuyến.",
+      "B. Nhiều người sử dụng, không phụ thuộc vị trí địa lý, có phân quyền.",
+      "C. Nhiều người sử dụng.",
+      "D. Nhiều người sử dụng, có phân quyền."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 28:",
+    "question": [
+      "Hệ quản trị CSDL - HQTCSDL (DataBase Management System - DBMS) là:",
+      "A. Hệ điều hành",
+      "B. Các phần mềm hệ thống.",
+      "C. Phần mềm điều khiển các chiến lược truy nhập CSDL.",
+      "D. Các phần mềm ứng dụng."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 29:",
+    "question": [
+      "Chức năng quan trọng của các dịch vụ có sở dữ liệu là:",
+      "A. Cập nhật, sửa đổi, bổ sung dữ liệu",
+      "B. Khôi phục thông tin.",
+      "C. Tìm kiếm và tra cứu thông tin.",
+      "D. Xử lý, tìm kiếm, tra cưú, sửa đổi, bổ sung hay loại bỏ dữ liệu...."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 30:",
+    "question": [
+      "Ưu điểm cơ sở dữ liệu:",
+      "A. Xuất hiện dị thường thông tin.",
+      "B. Các thuộc tính được mô tả trong nhiều tệp dữ liệu khác nhau.",
+      "C. Khả năng xuất hiện mâu thuẫn và không nhất quán dữ liệu.",
+      "D. Giảm dư thừa, nhất quán và toàn vẹn của dữ liệu."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 31:",
+    "question": [
+      "Dị thương thông tin có thể:",
+      "A. Thừa thiếu thông tin trong lưu trữ.",
+      "B. Dữ liệu nhất quán và toàn vẹn.",
+      "C. Phản ánh đúng hiện thực khách quan dữ liệu.",
+      "D. Không xuất hiện mâu thuẫn thông tin"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 32:",
+    "question": [
+      "Không nhất quán dữ liệu trong lưu trữ:",
+      "A. Không xuất hiện mâu thuẫn thông tin.",
+      "B. Làm cho dữ liệu mất đi tính toàn vẹn cuả nó.&nbsp;",
+      "C. Không thể sửa đổi, bổ sung, cập nhật dữ liệu.&nbsp;",
+      "D. Có thể triển khai tra cứu tìm kiếm."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 33:",
+    "question": [
+      "Tính toàn vẹn dữ liệu đảm bảo",
+      "A. Cho sự lưu trữ dữ liệu luôn luôn đúng.",
+      "B. Phản ánh đúng hiện thực khách quan dữ liệu.",
+      "C. Giảm dư thừa, nhất quán và toàn vẹn của dữ liệu.",
+      "D. Cho việc cập nhật, sửa đổi, bổ sung dữ liệu.thuận lợi"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 34:",
+    "question": [
+      "An toàn dữ liệu có thể hiểu là:",
+      "A. Ngăn chặn các truy nhập trái phép, sai quy định từ trong ra hoặc từ ngoài vào...",
+      "B. Tính nhất quán và toàn vẹn dữ liệu.",
+      "C. Dễ dàng cho công việc bảo trì dữ liệu.",
+      "D. Thống nhất các tiêu chuẩn, thủ tục và các biện pháp bảo vệ, an toàn dữ liệu"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 35:",
+    "question": [
+      "Thứ tự đúng các mức trong mô hình kiến trúc cơ sở dữ liệu:",
+      "A. Mức ngoài, mức quan niệm và mức mô hình.",
+      "B. Mức quan niệm, mức trong và mức ngoài.",
+      "C. Mức ngoài, mức quan niệm và mức trong.",
+      "D. Mức trong, mức mô hình dữ liệu và mức ngoài."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 36:",
+    "question": [
+      "Người sử dụng có thể truy nhập:",
+      "A. Một phần cơ sở dữ liệu",
+      "B. Phụ thuộc vào quyền truy nhập.",
+      "C. Toàn bộ cơ sở dữ liệu",
+      "D. Hạn chế"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 37:",
+    "question": [
+      "Cách nhìn cơ sở dữ liệu của người sử dụng bằng:",
+      "A. Mô hình trong.",
+      "B. Mô hình ngoài.",
+      "C. Mô hình ngoài và mô hình dữ liệu",
+      "D. Mô hình dữ liệu."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 38:",
+    "question": [
+      "Mô hình ngoài là:",
+      "A. Nội dung thông tin của toàn bộ CSDL",
+      "B. Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng.&nbsp;",
+      "C. Nội dung thông tin&nbsp; của toàn bộ CSDL dưới cách nhìn của người sử dụng.",
+      "D. Nội dung thông tin của một phần cơ sở dữ liệu"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 39:",
+    "question": [
+      "Mô hình quan niệm là:",
+      "A. Cách nhìn dữ liệu ở mức ngoài.",
+      "B. Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng.",
+      "C. Cách nhìn dữ liệu một cách tổng quát của người sử dụng.",
+      "D. Nội dung thông tin của một phần dữ liệu."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 40:",
+    "question": [
+      "Mô hình trong là:",
+      "A. Mô hình biểu diễn cơ sở dữ liệu trìu tượng ở mức quan niệm.",
+      "B. Có nhiều cách biểu diễn CSDL dưới dạng lưu trữ vật lý.",
+      "C. Mô hình lưu trữ vật lý dữ liệu.",
+      "D. Là một trong các mô hình biểu diễn CSDL dưới dạng lưu trữ vật lý."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 41:",
+    "question": [
+      "Ánh xạ quan niệm trong:",
+      "A. Bảo đảm tính độc lập của dữ liệu.",
+      "B. Bảo đảm tính phụ thuộc lẫn nhau giữa mô hình trong và mô hình ngoài.",
+      "C. Bảo đảm cấu trúc lưu trữ của mô hình dữ liệu không thay đổi.",
+      "D. Bảo đảm cấu trúc lưu trữ của CSDL khi có sự thay đổi."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 42:",
+    "question": [
+      "Ánh xạ quan niệm-ngoài:",
+      "A. Quan hệ giữa mô hình ngoài và mô hình ngoài",
+      "B. Quan hệ giữa mô hình trong và mô hình trong",
+      "C. Quan hệ môt-một giữa mô hình ngoài và mô hình dữ liệu.",
+      "D. Quan hệ giữa mô hình ngoài và mô hình trong."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 43:",
+    "question": [
+      "Mục tiêu của cơ sở dữ liệu là:",
+      "A. Không làm thay đổi chiến lược truy nhập cơ sở dữ liệu.",
+      "B. Không làm thay đổi cấu trúc lưu trữ dữ liệu.",
+      "C. Dữ liệu chỉ được biểu diễn, mô tả một cách duy nhất.",
+      "D. Bảo đảm tính độc lập dữ liệu"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 44:",
+    "question": [
+      "Người quản trị CSDL là:",
+      "A. Quyết định cấu trúc lưu trữ &amp; chiến lược truy nhập",
+      "B. Xác định chiến lược lưu trữ, sao chép, phục hồi dữ liệu.",
+      "C. Cho phép người sử dụng những quyền truy nhập cơ sở dữ liệu",
+      "D. Một người hay một nhóm người có khả năng chuyên môn cao về tin học, có trách nhiệm quản lý và điều khiển toàn bộ hoạt động của các hệ CSDL"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 45:",
+    "question": [
+      "Ràng buộc dữ liệu",
+      "A. Các định nghĩa, tiên đề, định lý",
+      "B. Quy tắc biểu diễn cấu trúc dữ liệu.",
+      "C. Mối quan hệ giữa các thực thể dữ liệu.",
+      "D. Các quy tắc, quy định."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 46:",
+    "question": [
+      "Ràng buộc kiểu:",
+      "A. Quy tắc đặt tên cơ sở dữ liệu.",
+      "B. Mô tả tính chất của các thuộc tính khi tạo lập CSDL",
+      "C. Quy tắc truy nhập cơ sở dữ liệu.",
+      "D. Mối quan hệ giữa các thực thể dữ liệu."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 47:",
+    "question": [
+      "Ràng buộc giải tích:",
+      "A. Mối quan hệ giữa các thuộc tính được biểu diễn bằng các biểu thức toán học.",
+      "B. Quy tắc biểu diễn cấu trúc dữ liệu.",
+      "C. Các phép toán đại số quan hệ",
+      "D. Mô tả tính chất của các thuộc tính khi tạo lập CSDL"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 48:",
+    "question": [
+      "Ràng buộc logic:",
+      "A. Các phép so sánh.",
+      "B. Mối quan hệ giữa các thuộc tính được biểu diễn bằng các biểu thức toán học.",
+      "C. Mối quan hệ giữa các thuộc tính được biểu diễn bằng các phụ thuộc hàm.",
+      "D. Các phép toán quan hệ"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 49:",
+    "question": [
+      "Mô hình cơ sở dữ liệu Client-Sserver:",
+      "A. Máy chủ và máy đều tham gia quá trình xử lý.",
+      "B. Máy khách thực hiện các ứng dụng, nó gửi yêu cầu về máy chủ được kết nối với cơ sở dữ liệu, máy chủ xử lý và gửi trả lại kết quả về máy khách.",
+      "C. Máy khách yêu cầu máy chủ cung cấp các loại dịch vụ.",
+      "D. Các máy khách chia sẻ gánh nặng xử lý của máy chủ trung tâm."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 50:",
+    "question": [
+      "Đặc trưng của một mô hình dữ liệu:",
+      "A. Mô hình dữ liệu đơn giản.",
+      "B. Biểu diễn dữ liệu đơn giản và không cấu trúc.",
+      "C. Tính ổn định, tính đơn giản, cần phải kiểm tra dư thừa , đối xứng và có cơ sở lý thuyết vững chắc.",
+      "D. Người sử dụng có quyền truy nhập tại mọi lúc, mọi nơi."
+    ],
+    "answer": "C"
+  }
+]

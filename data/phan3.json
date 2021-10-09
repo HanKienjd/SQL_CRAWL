@@ -1,0 +1,552 @@
+[
+  {
+    "Cau": "Câu 1:",
+    "question": [
+      "Các toán hạng trong các phép toán là:",
+      "A. Các thuộc tính",
+      "B. Các biểu thức",
+      "C. Các bộ n_giá trị",
+      "D. Các quan hệ"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 2:",
+    "question": [
+      "&nbsp;Kết quả của các phép thao tác dữ liệu là:",
+      "A. Quan hệ",
+      "B. Tệp dữ liệu",
+      "C. Chuỗi dữ liệu.",
+      "D. Cơ sở dữ liệu"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 3:",
+    "question": [
+      "Phép chèn thêm là phép toán:",
+      "A. Chèn vào CSDL một số thông tin về một đối tượn",
+      "B. Chèn vào CSDL các thuộc tính mới",
+      "C. Chèn vào CSDL một số thông tin tuỳ&nbsp;",
+      "D. Chèn vào CSDL từ vùng đệm chứa các thông tin về một bản ghi cụ thể."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 4:",
+    "question": [
+      "Phép xoá là phép toán:",
+      "A. Xoá một thuộc tính hay xoá một nhóm các thuộc tính",
+      "B. Xoá một quan hệ hay xoá một nhóm các quan hệ",
+      "C. Xoá một hệ CSD",
+      "D. Xoá một bộ hay xoá một nhóm các bộ."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 5:",
+    "question": [
+      "&nbsp;Phép sửa đổi là phép toán:",
+      "A. Sửa đổi giá trị của một bộ hay một nhóm các bộ",
+      "B. Sửa đổi giá trị của một số thuộc tính",
+      "C. Sửa đổi mô tả các thuộc tính",
+      "D. Sửa đổi giá trị của một quan hệ hay một nhóm các quan hệ"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 6:",
+    "question": [
+      "&nbsp;Phép chọn SELECT là phép toán:",
+      "A. Tạo một quan hệ mới từ quan hệ nguồn",
+      "B. Tạo một quan hệ mới, thoả mãn một tân từ xác định",
+      "C. Tạo một nhóm các phụ thuộc.\n\n&nbsp;",
+      "D. Tạo một quan hệ mới, các bộ được rút ra một cách duy nhất từ quan hệ nguồn"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 7:",
+    "question": [
+      "Phép chiếu PROJECT là phép toán:",
+      "A. Tạo một quan hệ mới, các thuộc tính là các thuộc tính quan hệ nguồn",
+      "B. Tạo một quan hệ mới, các bộ của quan hệ nguồn bỏ đi những bộ trùng lặp",
+      "C. Tạo một quan hệ mới, thoả mãn một tân từ xác định.",
+      "D. Tạo một quan hệ mới, các thuộc tính được biến đổi từ quan hệ nguồn."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 8:",
+    "question": [
+      "Phép kết nối JOIN là phép toán:",
+      "A. Tạo một quan hệ mới,",
+      "B. Tạo một quan hệ mới, các thuộc tính là các thuộc tính quan hệ nguồn.",
+      "C. Tạo một quan hệ mới, thoả mãn một tân từ xác định.",
+      "D. Tạo một quan hệ mới, kêt nối nhiều quan hệ trên miền thuộc tính chung"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 9:",
+    "question": [
+      "Kết nối bằng nhau các quan hệ theo thuộc tính là:",
+      "A. Thực hiện tích Đề Các và&nbsp; phép chọn",
+      "B. Thực hiện tích Đề Các và&nbsp; phép chiếu",
+      "C. Thực hiện phép chiếu và chia",
+      "D. Thực hiện phép chiếu và phép chọn"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 10:",
+    "question": [
+      "Trong SQL, ngôn ngữ định nghĩa dữ liệu bao gồm các chức năng::",
+      "A. Tạo, sửa và xóa cấu trúc quan hệ. Bảo mật và quyền truy nhập.",
+      "B. Bảo mật và quyền truy nhập.",
+      "C. Tạo, sửa và xóa cấu trúc quan hệ. Thêm cột, sửa cột và xoá cột",
+      "D. Tạo, sửa và xóa các bộ quan hệ. Bảo mật và quyền truy nhập."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 11:",
+    "question": [
+      "Trong SQL, ngôn ngữ thao tác dữ liệu DML bao gồm các chức năng::",
+      "A. Truy vấn thông tin, thêm, sửa, xoá dữ liệu",
+      "B. Bảo mật và quyền truy nhập.",
+      "C. Tạo, sửa và xóa cấu trúc quan hệ.",
+      "D. Tạo, sửa và xóa cấu trúc và đảm bảo bảo mật và quyền truy nhập."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 12:",
+    "question": [
+      "Thứ tự đúng trong câu lệnh SELECT",
+      "A. SELECT, FROM , GROUP BY&nbsp;&nbsp; HAVING, WHERE , ORDER&nbsp; BY&nbsp;",
+      "B. SELECT, FROM ,WHERE , GROUP BY&nbsp;&nbsp; HAVING&nbsp; , ORDER&nbsp; BY&nbsp;",
+      "C. SELECT, FROM, GROUP BY HAVING , ORDER BY",
+      "D. SELECT, FROM , GROUP BY&nbsp;&nbsp; HAVING&nbsp; , ORDER BY"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 13:",
+    "question": [
+      "Các bước thực hiện đúng trong câu lệnh SELECT:",
+      "A. Tích Đề các, phép toán chọn, theo nhóm, sắp xếp và phép chiếu",
+      "B. Tích Đề các, phép toán chọn, theo nhóm, phép chiếu và sắp xếp&nbsp;",
+      "C. Phép toán chọn, tích Đề các, theo nhóm, sắp xếp và phép chiếu&nbsp;",
+      "D. Phép toán chọn, tích Đề các, theo nhóm, phép chiếu và sắp xếp"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 14:",
+    "question": [
+      "Phép toán tập hợp trong mệnh đề WHERE bao gồm:",
+      "A. Các phép số học và các phép so sánh",
+      "B. Các phép đại số quan hệ",
+      "C. Các phép so sánh.",
+      "D. Biểu thức đại số"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 15:",
+    "question": [
+      "Các phép toán gộp nhóm được sử dụng sau mệnh đề:",
+      "A. SELECT",
+      "B. WHERE",
+      "C. GROUP BY",
+      "D. FROM"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 16:",
+    "question": [
+      "Phép chiếu được thực hiện sau mệnh đề nào trong SELECT - FROM - WHERE",
+      "A. FRO",
+      "B. SELEC",
+      "C. GROUP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BY HAVING",
+      "D. WHERE"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 17:",
+    "question": [
+      "Mệnh đề GROUP BY ... HAVING",
+      "A. Phân hoạch các bộ của một quan hệ thành các nhóm riêng biệt",
+      "B. Áp dụng các phép toán gộp nhóm.",
+      "C. Phân hoạch các bộ của một quan hệ thành các nhóm riêng biệt và áp dụng các phép toán gộp cho các nhóm.",
+      "D. Tách các quan hệ thành các quan hệ con, không tổn thất thông tin"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 18:",
+    "question": [
+      "Ngôn ngữ đinh nghĩa dữ liệu - DDL (Data Definition Language).",
+      "A. Được đặc tả bằng một ngôn ngữ dữ liệu",
+      "B. Được đặc tả bằng một ngôn ngữ, một phần của hệ quản trị cơ sở dữ liệu.",
+      "C. Được đặc tả bằng một phần của hệ quản trị cơ sở dữ liệu",
+      "D. Được đặc tả bằng cách chương trùnh ứng dụng"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 19:",
+    "question": [
+      "Tối ưu hoá câu hỏi truy vấn dữ liệu là:",
+      "A. Quá trình biến đổi câu hỏi về dạng quan hệ",
+      "B. Quá trình biến đổi câu hỏi về dạng đơn giản",
+      "C. Quá trình biến đổi câu hỏi về dạng biểu thức quan hệ",
+      "D. Quá trình biến đổi câu hỏi sao cho chi phí thời gian thực hiện là ít nhất"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 20:",
+    "question": [
+      "Tối ưu theo nghĩa biến đổi một biểu thức đại số quan hệ:",
+      "A. Cho cùng một kết quả với chi phí thời gian thực hiện và sử dụng bộ nhớ ít hơn.",
+      "B. Cho cùng một kết quả, không tổn thất thông tin.",
+      "C. Với chi phí thời gian ít hơn rất nhiề",
+      "D. Cho cùng một kết quả với chi phí bộ nhớ không nhiều"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 21:",
+    "question": [
+      "Tối ưu hoá câu hỏi bằng cách",
+      "A. Thực hiện các phép chiếu và chọn, tiếp sau mới thực hiện phép kết nối.",
+      "B. Thực hiện các phép toán đại số quan hệ.",
+      "C. Bỏ đi các phép kết nối hoặc tích Đề các có chi phí lớn",
+      "D. Thực hiện biến đổi không làm tổn thất thông tin."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 22:",
+    "question": [
+      "&nbsp;Nguyên tắc đánh giá tối ưu hóa biểu thức quan hệ:",
+      "A. Thực hiện các phép kết nối bằng nhau",
+      "B. Ưu tiên thực hiện các phép chiếu và chọn",
+      "C. Thực hiện phép tích Đề các",
+      "D. Nhóm các phép tích và chiếu liên tiép thành mộ"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 23:",
+    "question": [
+      "Khi thực hiện các phép toán trong một biểu thức quan hệ, thứ tự ưu tiên là:",
+      "A. Phép kết nối được ưu tiên hơn so với phép chọ và chiếu",
+      "B. Các phép toán một ngôi có thứ tự ưu tiên cao hơn so với phép toán hai ngôi.",
+      "C. Phụ thuộc vào vị trí của các phép toán",
+      "D. Phép kết nối được ưu tiên hơn so với phép hợp, phép giao"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 24:",
+    "question": [
+      "Một câu hỏi của người sử dụng:",
+      "A. Được biểu diễn bằng một đại số quan hệ",
+      "B. Được biểu diễn bằng nhiều cách khác nhau",
+      "C. Được biểu diễn bằng một quan hệ",
+      "D. Được biểu diễn bằng một biểu thức quan hệ"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 25:",
+    "question": [
+      "Cơ sở dữ liệu cần thiết phải bảo vệ, vì:",
+      "A. Rất nhiều loại dữ liệu được tải về giữ trên các máy cục bộ để khai thác.",
+      "B. Tài nguyên chung, nhiều người cùng sử dụng",
+      "C. Một bộ sưu tập rất lớn về các loại dữ liệu tác nghiệp",
+      "D. Truy xuất vào cơ sở dữ liệu bằng nhiều ngôn ngữ thao tác dữ liệu khác nhau."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 26:",
+    "question": [
+      "Bảo vệ an toàn cơ sở dữ liệu có thể là:",
+      "A. Không cho phép ghi đè dữ liệu.",
+      "B. Không cho phép cập nhật dữ liệu.",
+      "C. Không cho phép đọc, sửa đổi, ghi, xoá dữ liệu.....",
+      "D. Không cho phép sửa đổi dữ liệu."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 27:",
+    "question": [
+      "Mức độ an toàn hệ thống cơ sở dữ liệu:",
+      "A. Có thể được phép thực hiện các câu hỏi truy vấn.",
+      "B. Người quản trị cơ sở dữ liệu cấp phép truy nhập cho bất kỳ người sử dụng.",
+      "C. Phụ thuộc vào người sử dụng, không cần sự cấp phép của người quản trị",
+      "D. Người quản trị cấp phép truy nhập cho người sử dụng khi có nhu cầu"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 28:",
+    "question": [
+      "“An toàn” dữ liệu có nghĩa là cơ sở dữ liệu....",
+      "A. Cần phải được bảo vệ chống truy nhập trái phép.",
+      "B. Chống sửa đổi hay phá hoại.",
+      "C. Cần thiết phải quản trị, bảo vệ tập trung.",
+      "D. Chống vi phạm có chủ định"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 29:",
+    "question": [
+      "&nbsp;Để bảo vệ cơ sở dữ liệu, phải thực hiện biện pháp an toàn :",
+      "A. Mạng",
+      "B. Hệ thống, người quản trị cấp phép, an toàn mạng.....",
+      "C. An toàn hệ thống điều hành",
+      "D. Người quản trị cơ sở dữ liệu cấp phép truy nhập."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 30:",
+    "question": [
+      "&nbsp;Một số biện pháp bảo vệ cơ sở dữ liệu :",
+      "A. Người quản trị cơ sở dữ liệu cấp phép truy nhập.",
+      "B. Nhận diện người sử dụng, bảo vệ mức vật lý, kiểm tra truy nhập....",
+      "C. Kiểm tra Password",
+      "D. Kiểm tra truy nhập người sử dụng"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 31:",
+    "question": [
+      "Mức độ nhận diện người sử dụng:",
+      "A. Xác định cho hệ thống những thao tác",
+      "B. Cho phép người sử dụng truy nhập",
+      "C. Người quản trị cung cấp phương tiện cho người sử dụng để hệ thống nhận biết",
+      "D. Nếu được phép của người quản trị CSDL."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 32:",
+    "question": [
+      "&nbsp;Mức bảo vệ mức vật lý:",
+      "A. Nhận diện bằng cách kiểm tra",
+      "B. Nhận diện qua nhân viên bảo vệ, hoặc các quy định về hành chính...",
+      "C. Nhận diện bằng các phương pháp trao quyền.",
+      "D. Nhận diện bằng mặt khẩu."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 33:",
+    "question": [
+      "Dạng cấp&nbsp; quyền truy xuất trong SQL:",
+      "A. GRANT&nbsp;ON&nbsp;TO&nbsp;.",
+      "B. GRANT&nbsp;ON&nbsp;TO&nbsp;.",
+      "C. GRANT&nbsp;ON&nbsp;TO&nbsp;.",
+      "D. GRANT READ ON R"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 34:",
+    "question": [
+      "Dạng thu hồi quyền truy nhập:",
+      "A. REVOKE &lt;Các thao tác&gt; ON &lt;Quan hệ&gt; FROM &lt;Nhóm người sử dụng&gt;",
+      "B. REVOKE &lt;Người sử dụng&gt; ON &lt;Quan hệ&gt; FROM &lt;Các thao tác&gt;",
+      "C. REVOKE &lt;Quan hệ&gt; ON &lt;Thuộc tính&gt; FROM &lt;Nhóm người sử dụng&gt;",
+      "D. REVOKE SELECT ON &lt;Quan hệ&gt; FROM &lt;Nhóm người sử dụng&gt;"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 35:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về đối tượng nghiên cứu CSDL",
+      "A. CSDL bao gồm là các thực thể",
+      "B. CSDL bao gồm là các thực thể và mối quan hệ giữa các thực thể.",
+      "C. Trong CSDL quan hệ có nhiều cách biểu diễn dữ liệu.",
+      "D. Mối quan hệ giữa các thực thể cũng là một loại thực thể."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 36:",
+    "question": [
+      "&nbsp;Chọn một khẳng định nào sau đây là đúng nhất khi nói về ưu điểm tổ chức lưu trữ dữ liệu theo lý thuyết cơ sở dữ liệu:",
+      "A. Tốn kém, lãng phí bộ nhớ và các thiết bị lưu trữ.",
+      "B. Có thể chia sẻ tài nguyên thông tin. và giảm dư thừa trong lưu trữ&nbsp;",
+      "C. Nhiều thuộc tính được mô tả và lưu trữ nhiều lần độc lập với nhau.&nbsp;",
+      "D. Giảm dư thừa dữ liệu trong lưu trữ"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 37:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về tính nhất quán và tính toàn vẹn của dữ liệu",
+      "A. Tránh dư thừa dữ liệu trong lưu trữ",
+      "B. Một thuộc tính được mô tả lặp lại nhiều lần.",
+      "C. Tiết kiệm bộ nhớ và các thiết bị lưu trữ.",
+      "D. Tránh được dị thường thông tin"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 38:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về biện pháp an toàn dữ liệu:",
+      "A. Thống nhất các tiêu chuẩn, thủ tục và các biện pháp bảo vệ",
+      "B. Dễ dàng truy xuất, thao tác trên các cơ sở dữ liệu",
+      "C. Ngăn chặn các truy nhập trái phép, sai quy định từ trong ra hoặc từ ngoài vào...",
+      "D. Người sử dụng có thể kiểm tra, kiểm soát các quyền truy nhập của họ."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 39:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất:",
+      "A. Mô hình kiến trúc 3 lớp dữ liệu là mô hình lưu trữ cơ sở dữ liệu",
+      "B. Mô hình kiến trúc 3 lớp dữ liệu đảm bảo tính nhất quán và toàn ven dữ liệu",
+      "C. Mô hình kiến trúc 3 lớp dữ liệu đảm bảo tính bảo mật và an toàn dữ liệu",
+      "D. Mô hình kiến trúc 3 lớp đảm bảo tính độc lập dữ liệu."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 40:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất",
+      "A. Nhiều người sử dụng có cách nhìn chung một khung nhìn dữ liệu.",
+      "B. Có duy nhất một cách nhìn dữ liệu ở mô hình ngoài",
+      "C. Một người sử dụng có một và chỉ một mô hình ngoài.",
+      "D. Mô hình ngoài là nội dung thông tin của một phần dữ liệu của người sử dụng"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 41:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất",
+      "A. Mô hình quan niệm là cách nhìn dữ liệu của người sử dụng.",
+      "B. Chỉ có nhiều cách nhìn dữ liệu ở mô hình quan niệm.",
+      "C. Biểu diễn toàn bộ thông tin trong mô hình quan niệm là duy nhất.",
+      "D. Mô hình dữ liệu là nội dung thông tin của người sử dụng."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 42:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất",
+      "A. Mô hình trong là mô hình dữ liệu",
+      "B. Chỉ có duy nhất một cách biểu diễn CSDL dưới dạng lưu trữ vật lý.",
+      "C. Mô hình dữ liệu là nội dung thông tin của người sử dụng.",
+      "D. Biểu diễn cơ sở dữ liệu trìu tượng ở mức thấp nhất."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 43:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất...",
+      "A. Cấu trúc lưu trữ và các hệ chương trình ứng dụng trên độc lập với nhau.",
+      "B. Người sử dụng khi thao tác trên các cơ sở dữ liệu có thể làm thay đổi cấu trúc lưu trữ dữ liệu và chiến lược truy nhập cơ sở dữ liệu.",
+      "C. Mục tiêu của các hệ CSDL là: tính bất biến cuả các hệ ứng dụng đối với sự thay đổi trong cấu trúc lưu trữ và chiến lược truy nhập dữ liệu.",
+      "D. Dữ liệu được biểu diễn, mô tả nhiều cách khác nhau."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 44:",
+    "question": [
+      "&nbsp;Chọn một khẳng định nào sau đây là đúng: nhất:",
+      "A. Ràng buộc dữ liệu là các khái niệm về phụ thuộc hàm.",
+      "B. Ràng buộc dữ liệu bảo đảm tính độc lập",
+      "C. Các ràng buộc là tập các quy tắc, quy định biểu diễn dữ liệu trong cơ sở dữ liệu.",
+      "D. Giữa các thực thể dữ liệu tồn tại các mối quan hệ, ràng buộc lẫn nhau."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 45:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về khái niệm mô hình cơ sở dữ liệu Client-Sserver:",
+      "A. Các máy khách chia sẻ xử lý thông tin.",
+      "B. Khi máy khách thực hiện các ứng dụng, nó gửi yêu cầu về máy chủ được kết nối với cơ sở dữ liệu, máy chủ xử lý và gửi trả lại kết quả về máy khách.",
+      "C. Máy chủ và máy khách có quyền truy xuất cơ sở dữ liệu",
+      "D. Máy khách truy xuất cơ sở dữ liệu trên máy chủ qua môi trường mạng."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 46:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về đặc trưng của một mô hình dữ liệu là",
+      "A. Sử dụng ngôn ngữ bậc cao để biểu diễn các phép toán trên cơ sở dữ liệu",
+      "B. Mô hình có cấu trúc đơn giản, có cách nhìn trong suốt đối với người sử dụng",
+      "C. Phải kiểm tra tính dư thừa.",
+      "D. Có tính ổn định khi thiết kế, đơn giản, dễ thao tác. Có tính đối xứng và có cơ sở lý thuyết vững chắc."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 47:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất",
+      "A. CSDL là tập bảng và mỗi bảng là một cấu trúc hai chiều",
+      "B. Dữ liệu được người sử dụng nhìn dưới dạng một quan hệ toán học và các phép toán thao tác dữ liệu được xây dựng trên các cấu trúc quan hệ toán học.",
+      "C. Dữ liệu được người sử dụng nhìn dưới dạng một cấu trúc hình cây.",
+      "D. Gồm nhiều tệp dữ liệu có cấu trúc xác định."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 48:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất khi nói về ngôn ngữ dữ liệu thao tác trên quan hệ:",
+      "A. Ngôn ngữ con dữ liệu biếu diễn dữ liệu một cách duy nhất.",
+      "B. Là tập các phép toán thao tác trên các dữ liệu dưới dạng quan hệ",
+      "C. Ngôn ngữ con dữ liệu liên kết các thực thể dữ liệu quan hệ.",
+      "D. Ngôn ngữ con dữ liệu gồm nhóm các phép toán tìm kiếm và cập nhật, lưu trữ, thao tác trên các quan hệ"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 49:",
+    "question": [
+      "Chọn một khẳng định nào sau đây là đúng nhất:",
+      "A. Số điện thoại&nbsp;, Mã vùng là phụ thuộc phản xạ.",
+      "B. Số điện thoại, Họ tên thuê bao là phụ thuộc phản xạ.",
+      "C. (Số thứ tự, Mã lớp),&nbsp; Mã lớp là phụ thuộc phản xạ.",
+      "D. Số chứng minh thư, Họ tên là phụ thuộc phản xạ."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 50:",
+    "question": [
+      "&nbsp;Chọn một khẳng định nào sau đây là đúng nhất khi nói về phụ thuộc bắc cầu",
+      "A. Nếu A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B và B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C&nbsp; thì suy ra AC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BC.",
+      "B. Nếu A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B và B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C&nbsp; suy ra A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C.",
+      "C. Nếu một thuộc tính xác định thuộc tính thứ hai, hoặc xác định thuộc tính thứ ba, khi đó thuộc tính thứ nhất xác định thuộc tính thứ 3.",
+      "D. Nếu một thuộc tính xác định thuộc tính thứ hai thì nó xác định thuộc tính thứ ba"
+    ],
+    "answer": "B"
+  }
+]

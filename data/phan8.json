@@ -1,0 +1,442 @@
+[
+  {
+    "Cau": "Câu 1:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng &nbsp;để hoàn thiện khảng định sau: Nói rằng A -&gt; B được suy dẫn từ F, nếu:",
+      "A. Hai bộ bất kỳ trùng nhau trên A thì khác nhau trên B.",
+      "B. Hai bộ bất kỳ thoả trên trên A thì thoả trên B.",
+      "C. Hai bộ bất kỳ khác nhau trên A thì cũng khác nhau trên B.",
+      "D. Áp dụng liên tiếp các hệ tiên đề Armstrong"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 2:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Bao đóng tập các phụ thuộc hàm gồm các phụ thuộc:",
+      "A. Bắc cầu.được suy dẫn logic",
+      "B. Được suy dẫn bằng định nghĩa.",
+      "C. Được suy dẫn bằng cách áp dụng liên tiếp các hệ tiên đề Armstrong.",
+      "D. Đầy đủ.được suy dẫn logic"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 3:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Trong một lược đồ quan hệ luôn tồn tại một hoặc một tập các thuộc tính có khả năng:",
+      "A. Biểu diễn các thuộc tính còn lại.",
+      "B. Biểu diễn duy nhất các thuộc tính còn lại.",
+      "C. Biểu diễn duy nhất các phụ thuộc hàm",
+      "D. Biểu diễn các phụ thuộc hàm"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 4:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Nếu 2 bộ bất kỳ trùng nhau trên các thành phần của khóa thì:",
+      "A. Cũng trùng nhau trên các thành phần của tất cả các bộ.",
+      "B. Cũng trùng nhau trên các thành phần không khóa.",
+      "C. Khác nhau trên các thành phần tất cả các bộ.",
+      "D. Khác nhau trên các thành phần không khóa."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 5:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Giá trị các thành phần của khoá:",
+      "A. Có thể nhận giá trị null hay các giá trị không xác định",
+      "B. Không thể nhận giá trị null hay các giá trị không xác định.",
+      "C. Có thể nhận giá trị các giá trị không xác định.",
+      "D. Không thể nhận giá trị null và chấp nhận các giá trị không xác định."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 6:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Từ một siêu khóa cho trước, có thể:",
+      "A. Xác định một khóa trong nó.",
+      "B. Xác định một siêu khóa trong nó.&nbsp;",
+      "C. Xác định một nhóm các thuộc tính&nbsp;",
+      "D. &nbsp;Xác định một thuộc tính"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 7:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng&nbsp; định sau:Trong quá trình chuẩn hoá&nbsp; dữ liệu, cần thiết phải thực hiện các phép tách quan hệ về các quan hệ có dạng chuẩn cao",
+      "A. Đảm bảo tính toàn vẹn dữ liệu",
+      "B. Và biểu diễn thông tin là duy nhất.",
+      "C. Và không tổn thất thông tin.",
+      "D. Không làm mất đi tính độc lập dữ liệu"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 8:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Phép tách không tổn thất thông tin theo nghĩa:",
+      "A. Thông tin của quan hệ gốc được khôi phục từ các quan hệ chiếu.",
+      "B. Phép tách bảo toàn phụ thuộc trong các quan hệ chiếu.",
+      "C. Phép tách bảo đảm tính độc lập dữ liệu",
+      "D. Thông tin của quan hệ gốc không bị mâu thuẫn, thừa hoặc thiếu."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 9:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Chuẩn hoá dữ liệu là quá trình biến đổi dữ liệu thành nhiều tập nhỏ hơn sao cho",
+      "A. Không rõ ràng trong suy diễn, bảo đảm tính toàn ven dữ liệu",
+      "B. Tối thiểu việc lặp lại, tránh sự không rõ ràng, nhập nhằng trong suy diễn.",
+      "C. Các quan hệ thành viên không tổn thất thông tin, đảm bảo tính độc lập dữ liệu",
+      "D. Các quan hệ thành viên có cấu trúc đơn giản, không chứa dị thường thông tin."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 10:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Một mô hình CSDL được&nbsp; coi là mô hình chuẩn hoá tốt, nếu:",
+      "A. Các thuộc tính không khoá phụ thuộc hàm vào khoá.",
+      "B. Các thuộc tính không khoá phụ thuộc hàm đầy đủ vào khoá",
+      "C. Các thuộc tính khoá xác định duy nhất",
+      "D. Các thuộc tính không khoá không phụ thuộc bắc cầu vào khoá."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 11:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Trong các quan hệ dạng chuẩn 1NF:",
+      "A. Xuất hiện các thuộc tính phụ thuộc đầy đủ vào khoá.",
+      "B. Khi thao tác các phép lưu trữ xuất hiện dị thường thông tin.",
+      "C. Không xuất hiện dị thường thông tin",
+      "D. Không xuất hiện các phụ thuộc bắc cầu vào khoá."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 12:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Nếu quan hệ là dạng chuẩn 1NF và không tồn tại các phụ thuộc hàm sao cho thuộc tính vế trái là một tập con thực sự của khóa và thuộc tính vế phải ...",
+      "A. Là thuộc tính không khóa của quan hệ.",
+      "B. Phụ thuộc hàm vào thuộc tính không khoá",
+      "C. Là thuộc tính dư thừa vế trái",
+      "D. Phụ thuộc hàm vào thuộc tính vế trái"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 13:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng&nbsp; định sau: Trong các&nbsp; quan hệ dạng chuẩn 2NF, không thể chèn thêm thông tin:",
+      "A. Khi chưa xác định giá trị của các thuộc tính khoá&nbsp;",
+      "B. Khi giá trị của các thuộc tính chưa được xác định&nbsp;",
+      "C. Khi giá trị của một thuộc tính chưa được xác định&nbsp;",
+      "D. Khi còn dị thường thông tin"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 14:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Trong các quan hệ dạng chuẩn 2NF ...",
+      "A. Các thuộc tính không khoá phụ thuộc không đầy đủ vào khoá.",
+      "B. Các thuộc tính không khoá phụ thuộc vào khoá.",
+      "C. Cấm tất cả các thuộc tính không khoá phụ thuộc vào tập con thực sự của khoá.",
+      "D. Không xuất hiện các phụ thuộc bắc cầu"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 15:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Biến đổi một quan hệ chưa chuẩn hoá về nhóm các quan hệ 3NF ...",
+      "A. Không tổn thất thông tin.",
+      "B. Tổn thất thông tin.",
+      "C. Bảo toàn phụ thuộc",
+      "D. Bảo đảm tính độc lập dữ liệu."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 16:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng&nbsp; để hoàn thiện khẳng&nbsp; định sau:&nbsp; Từ một quan hệ&nbsp; 1NF có thể chuyển đổi về nhóm các quan hệ 3NF bằng cách ...",
+      "A. Loại bỏ các phụ thuộc không đầy đủ vào khoá",
+      "B. Loại bỏ các phụ thuộc không đầy đủ vào khoá và các phụ thuộc bắc cầu",
+      "C. Loại bỏ các phụ thuộc không đầy đủ",
+      "D. Loại bỏ các phụ thuộc đầy đủ vào khoá và các phụ thuộc bắc cầu"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 17:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Kết quả của phép chọn SELECT là một quan hệ mới, các bộ...",
+      "A. Là một File dữ liệu.",
+      "B. Là tập các bản ghi",
+      "C. Phụ thuộc hàm với các thuộc tính.",
+      "D. Thoả mãn một tân từ xác định."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 18:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Toán hạng trong các phép đại số quan hệ là các ...",
+      "A. Các biểu thức toán học",
+      "B. Quan hệ hoặc các biểu thức quan hệ",
+      "C. Quan hệ hằng hoặc các biến biểu thị cho các quan hệ có bậc cố định.",
+      "D. Các biến biểu thị cho các quan hệ có bậc cố định."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 19:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Hợp các quan hệ khả hợp trên cùng tập các thuộc tính Ω là một quan hệ trên Ω, các bộ là ... bỏ đi các bộ trùng nhau, chỉ giữ lại những bộ đại diện.",
+      "A. Các bộ của các quan hệ nguồn thoả điều kiện hợp",
+      "B. Các bộ của các quan hệ nguồn",
+      "C. Các bộ của các quan hệ nguồn được tách không tổn thất thông tin.",
+      "D. Các bộ có mặt trong các quan hệ nguồn"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 20:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Giao của các quan trên Ω cũng là một quan hệ trên Ω , các bộ của nó là các bộ ...",
+      "A. Có mặt trong các quan hệ nguồn",
+      "B. Của các quan hệ nguồn thoả tân từ xác định",
+      "C. Của các quan hệ nguồn",
+      "D. Các quan hệ nguồn được tách không tổn thất thông tin."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 21:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng&nbsp; để hoàn thiện&nbsp; khẳng&nbsp; định sau:&nbsp;&nbsp; Tích Đề các các quan hệ là một quan hệ, với tập các thuộc tính là ... , các bộ bao gồm các bộ quan hệ nguồn nối tiếp theo thứ tự phép nhân.",
+      "A. Hợp tập các thuộc tính của các quan hệ nguồn",
+      "B. Thuộc tính có mặt trong quan hệ đầu tiên phép nhân.",
+      "C. Giao tập các thuộc tính của các quan hệ nguồn",
+      "D. Tập các thuộc tính của các quan hệ tách"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 22:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng&nbsp; để hoàn thiện&nbsp; khẳng&nbsp; định sau: Nói rằng bộ t của quan hệ&nbsp;&nbsp; R thoả mãn biểu thức logic E , ký hiệu t(E) nếu sau khi thay mọi giá trị của thuộc tính A trong E bởi giá trị t[A] tương ứng thì ...",
+      "A. Nhận được giá trị “ True”",
+      "B. Nhận được giá trị đơn trị&nbsp;",
+      "C. Nhận được giá trị đa trị",
+      "D. Nhận được giá trị “ False”"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 23:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng&nbsp; để hoàn thiện&nbsp; khẳng&nbsp; định sau: Phép chiếu quan hệ, tức là&nbsp; từ quan hệ nguồn ...",
+      "A. Bỏ đi một số bộ thoả mãn biểu thức logic&nbsp;",
+      "B. Bỏ đi một số bộ thoả mãn biểu thức logic&nbsp;",
+      "C. Bỏ đi một số bộ",
+      "D. Bỏ đi một số thuộc tính"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 24:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Từ các phép toán đại số&nbsp; quan hệ, một câu vấn tin có thể được biểu diễn bởi ...",
+      "A. Một cây quan hệ.",
+      "B. Biểu thức quan hệ và một cây phép toán quan hệ.",
+      "C. Một biểu thức quan hệ",
+      "D. Biểu thức quan hệ hay một cây quan hệ"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 25:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Ngôn ngữ SQL có thể sử dụng theo các phương thức tương tác và ...",
+      "A. Nhúng vào một ngôn ngữ chủ",
+      "B. Nhúng vào một cơ sở dữ liệu khác",
+      "C. Nhúng vào hệ điều hành.",
+      "D. Nhúng vào một hệ quản trị cơ sở dữ liệu khác"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 26:",
+    "question": [
+      "Hãy&nbsp; chọn&nbsp; từ/cụm&nbsp; từ tương ứng để hoàn thiện khẳng định sau: Nếu trong câu lệnh SELECT có chứa GROUP BY, hệ thống sẽ ... và thực hiện các phép gộp nhóm.",
+      "A. Phân hoạch quan hệ thành nhiều nhóm tách biệt nhau",
+      "B. Thực hiện việc sắp xếp theo chỉ dẫn sau mệnh đề ORDER BY.",
+      "C. Thực hiện phép chọn sau mệnh đề WHERE",
+      "D. Thực hiện phép chiếu sau mệnh đề SELECT"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 27:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Thực hiện phép chọn trên quan hệ sau mệnh đề HAVING ...",
+      "A. Trước khi sau mệnh đề GROUP BY thực hiện gộp nhóm.",
+      "B. Nếu GROUP BY đã xuất hiện.",
+      "C. Theo các yêu cầu của mệnh đề GROUP BY",
+      "D. Thoả mãn biểu thức logic"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 28:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện&nbsp; khẳng&nbsp; định sau: Trước khi thực hiện các&nbsp; câu truy vấn, cần thiết phải ...",
+      "A. Truy xuất dữ liệu tại các thiết bị đầu cuối.",
+      "B. Tối ưu hoá câu hỏi, bảo đảm tính độc lập của dữ liệu",
+      "C. Thực hiện các phép chiếu và chọn.",
+      "D. Biển đổi câu hỏi dưới dạng biểu thức quan hệ"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 29:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Biến đổi một biểu thức đại số quan hệ về một biểu thức tương đương, cho cùng một kết quả ...",
+      "A. Bảo toàn dữ liệu",
+      "B. Bảo đảm độc lập dữ liệu",
+      "C. Không tổn thất thông tin",
+      "D. Với chi phí thời gian thực hiện và sử dụng bộ nhớ ít hơn rất nhiều"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 30:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Có nhiều kỹ thuật&nbsp; tối ưu&nbsp; hoá các câu hỏi, trong đó có kỹ thuật phân rã câu hỏi dựa trên ...",
+      "A. Suy dẫn logic từ các tiên đề Armstrong",
+      "B. Ngôn ngữ của đại số quan hệ.",
+      "C. Biểu thức đại số quan hệ.",
+      "D. Ngôn ngữ dữ liệu."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 31:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Biến đổi một biểu thức đại&nbsp; số quan hệ về một biểu thức tương đương với chi phí thời gian thực hiện và sử dụng bộ nhớ ...",
+      "A. Không phụ thuộc các phép toán",
+      "B. Tối ưu",
+      "C. Phụ thuộc và các phép toán thực hiện",
+      "D. Hạn chế"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 32:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Đánh giá tối ưu hóa biểu&nbsp; thức quan hệ dựa vào cây kết nối trái theo chiều sâu, có ...",
+      "A. Chi phí thời gian nhỏ.",
+      "B. Chi phí tính theo chiều sâu của cây.",
+      "C. Chí phí bộ nhớ nhỏ",
+      "D. Chi phí bằng chi phí biểu thức ban đầu."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 33:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Trong biểu thức quan hệ các toán hạng là ...",
+      "A. Các phần tử",
+      "B. Các phụ thuộc hàm.",
+      "C. Các thuộc tính.",
+      "D. Các quan hệ trong một CSDL"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 34:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Biểu thức E1 tương đương với nhau E2 , nếu chúng biểu diễn cùng một ánh xạ, nghĩa là ... giống nhau trong biểu thức, thì kết quả cũng giống nhau.",
+      "A. Các quan hệ.",
+      "B. Các bản ghi.",
+      "C. Các thuộc tính.",
+      "D. Các toán hạng"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 35:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng&nbsp; để hoàn thiện khẳng&nbsp; định sau: “An toàn” dữ liệu nghĩa là&nbsp; cơ sở dữ liệu cần phải:",
+      "A. Bảo đảm tính độc lập dữ liệu",
+      "B. Bảo vệ, bảo đảm sự toàn ven dữ liệu&nbsp;",
+      "C. Bảo toàn dữ liệu khi thao tác trên nó.&nbsp;",
+      "D. Bảo vệ chống truy nhập trái phép"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 36:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Toàn vẹn dữ liệu nghĩa là:",
+      "A. Dữ liệu trong CSDL luôn luôn chính xác tại mọi thời điểm",
+      "B. Có thể thực hiện các chiến lược truy nhập dữ liệu.",
+      "C. Bảo đảm tính độc lập dữ liệu tại mọi thời điểm",
+      "D. Có thể tìm kiếm tại mọi thời điểm"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 37:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Hệ quản trị cơ sở dữ liệu DBMS không cho phép người sử dụng:",
+      "A. Truy nhập tìm kiếm hay truy vấn thông tin",
+      "B. Thực hiện quyền truy nhập nếu không..được phép của người quản trị CSDL",
+      "C. Thực hiện quyền truy nhập CSDL",
+      "D. Vi phạm tính độc lập và tính toàn vẹn dữ liệu"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 38:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Hình thức thông dụng nhất để nhận biết người sử dụng là mật khẩu:",
+      "A. Đảm bảo toàn vẹn dữ liệu",
+      "B. Và các quy tắc bảo vệ cơ sở dữ liệu",
+      "C. Chỉ có hệ thống và người sử dụng biết.",
+      "D. Mới được phép truy nhập CSDL"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 39:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Một người sử dụng được ... và các quyền này có thể tham chiếu đến quyền truy nhập của người sử dụng khác.",
+      "A. Cấp một vài quyền truy nhập cơ sở dữ liệu",
+      "B. Cấp quyền đọc và ghi dữ liệu",
+      "C. Cấp quyền tìm kiếm dữ liệu",
+      "D. Cấp tất cả các quyền truy nhập cơ sở dữ liệu"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 40:",
+    "question": [
+      "Hãy chọn từ/cụm từ tương ứng &nbsp;để hoàn thiện &nbsp;khẳng &nbsp;định sau: Cấp quyền READ người sử dụng chỉ được quyền:&nbsp;",
+      "A. Chỉ được đọc và ghi",
+      "B. Sửa đổi, bổ sung và cập nhật dữ liệu.",
+      "C. Sử dụng trong các câu vấn tin và cập nhật, lưu trữ dữ liệu.",
+      "D. Vấn tin, không được phép sửa đổi, bổ sung."
+    ],
+    "answer": "D"
+  }
+]

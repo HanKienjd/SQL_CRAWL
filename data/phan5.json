@@ -1,0 +1,554 @@
+[
+  {
+    "Cau": "Câu 1:",
+    "question": [
+      "Nếu A-&gt;B&nbsp; và&nbsp; A-&gt;C thì suy ra:",
+      "A. AA-&gt;C",
+      "B. A -&gt;AB",
+      "C. A-&gt;BC",
+      "D. AB-&gt;BC"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 2:",
+    "question": [
+      "Nếu A-&gt;BC suy ra:",
+      "A. AC-&gt;B&nbsp; và&nbsp; A-&gt;CC\n&nbsp;",
+      "B. A-&gt;C",
+      "C. A -&gt;B và A-&gt;C",
+      "D. A-&gt;B"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 3:",
+    "question": [
+      "Phụ thuộc nào sau đây là phụ thuộc đầy đủ:",
+      "A. (Số thứ tự, mã lớp) -&gt; Họ tên sinh viên.",
+      "B. (Số chứng mionh thư,&nbsp; mã nhân viên) -&gt; Quá trình công tác",
+      "C. (Số hoá đơn, mã khách hàng) -&gt; Họ tên khách hàng",
+      "D. (Mã báo, mã khách hàng) -&gt; Giá báo"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 4:",
+    "question": [
+      "F&nbsp; = {X-&gt;Z,&nbsp; XY-&gt;WP, XY-&gt;ZWQ, XZ-&gt;R}.",
+      "A. XY-&gt;WP chứa thuộc tính X dư thừa",
+      "B. XY-&gt;WP không chứa thuộc tính dư thừa vế trái",
+      "C. XY-&gt;WP chứa thuộc tính&nbsp; P&nbsp; dư thừa",
+      "D. XY-&gt;WP chứa thuộc tính&nbsp; Y dư thừa"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 5:",
+    "question": [
+      "Giá trị các thành phần của khoá quy định:",
+      "A. Có thể nhận giá trị null",
+      "B. Không thể nhận giá trị null hay các giá trị không xác định.",
+      "C. Có thể nhận giá trị null hay các giá trị không xác định.",
+      "D. Không thể nhận giá trị null nhưng có thể nhận các giá trị không xác định"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 6:",
+    "question": [
+      "Các thuộc tính khóa là",
+      "A. Các thuộc tính không được chứa trong khóa",
+      "B. Các thuộc tính khoá",
+      "C. Các thuộc tính không khóa.",
+      "D. Các phần tử của khóa."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 7:",
+    "question": [
+      "Mục tiêu của cơ sở dữ liệu là:",
+      "A. Tính toàn vẹn của dữ liệu.",
+      "B. Phản ánh trung thực thế giới hiện thực dữ liệu",
+      "C. Tính độc lập của dữ liệu.",
+      "D. Tính phụ thuộc dữ liệu."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 8:",
+    "question": [
+      "Quá trình tách không làm tổn thất thông tin theo nghĩa:",
+      "A. Quan hệ gốc được khôi phục từ các quan hệ chiếu.bằng phép kết nối tự nhiên",
+      "B. Quan hệ gốc được khôi phục chính xác từ các quan hệ chiếu.",
+      "C. Quan hệ gốc được khôi phục từ các quan hệ chiếu.bằng phép kết nối",
+      "D. Quan hệ gốc được khôi phục từ các quan hệ chiếu.bằng phép chiếu và chọn"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 9:",
+    "question": [
+      "Mục tiêu của phép tách lược đồ quan hệ là:",
+      "A. Nhằm thực hiện các phép lưu trữ dễ dàng.",
+      "B. Nhằm tối ưu hoá truy vấn",
+      "C. Nhằm loại bỏ các dị thường thông tin khi thực hiện các phép lưu trữ.",
+      "D. Nhằm thực hiện các phép tìm kiếm."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 10:",
+    "question": [
+      "Cần thiết phải chuẩn hoá dữ liệu vì:",
+      "A. Giá trị khoá nhận giá trị null hay giá trị không xác định.",
+      "B. Khi thực hiện các phép lưu trữ trên các quan hệ chưa được chuẩn hoá thường xuất hiện các dị thường thông tin.",
+      "C. Khi thực hiện các phép tách - kết nối tự nhiiên các quan hệ.",
+      "D. Khi thực hiện các phép tìm kiếm, xuất hiện các dị thường thông tin."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 11:",
+    "question": [
+      "Dị thường thông tin là nguyên nhân:",
+      "A. Gây cản trở cho việc cập nhật, bổ sung thông tin",
+      "B. Gây cản trở cho việc tách kết nối tổn thất thông tin",
+      "C. Gây cản trở cho việc tìm kiếm, hỏi đáp thông tin.",
+      "D. Gây cản trở cho việc thực hiện các phép lưu trữ"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 12:",
+    "question": [
+      "Mục tiêu của chuẩn hoá dữ liệu là:",
+      "A. Đảm bảo tính nhất quán dữ liệu.",
+      "B. Triệt tiêu mức cao nhất khả năng xuất hiện các dị thường thông tin.",
+      "C. Đảm bảo tính bảo mật dữ liệu",
+      "D. Đảm bảo cho việc lưu trữ dữ liệu"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 13:",
+    "question": [
+      "Quá trình chuẩn hoá dữ liệu là quá trình:",
+      "A. Tách lược đồ quan hệ hạn chế thấp nhất tổn thất thông tin .",
+      "B. Thực hiện các phép tìm kiếm dữ liệu.",
+      "C. Chuyển đổi biểu diễn thông tin trong các dạng khác nhau",
+      "D. Tách lược đồ quan hệ không làm tổn thất thông tin ."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 14:",
+    "question": [
+      "Cơ sở để chuẩn hoá dựa trên các khái niệm:",
+      "A. Bao đóng các phụ thuộc hàm",
+      "B. Phụ thuộc hàm",
+      "C. Các thuộc tính, bao đóng các thuộc tính.",
+      "D. Khoá và siêu khoá."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 15:",
+    "question": [
+      "Một mô hình CSDL được xem là mô hình chuẩn hoá tốt, nếu:",
+      "A. Không xuất hiện dị thường thông tin.",
+      "B. Đảm bảo tính độc lập dữ liệu.",
+      "C. Mỗi một thuộc tính không khoá phụ thuộc hàm vào khoá.",
+      "D. Mỗi một thuộc tính được biểu diễn trong dạng duy nhất."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 16:",
+    "question": [
+      "Quan hệ R được gọi là dạng chuẩn 1NF, khi và chỉ khi:",
+      "A. Một thuộc tính có nhiều giá trị khác nhau",
+      "B. Các thuộc tính chỉ chứa các giá trị nguyên tố.",
+      "C. Một quan hệ có nhiều hàng",
+      "D. Một quan hệ có nhiều cột."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 17:",
+    "question": [
+      "Quan hệ 1NF không thể chấp nhận được trong quá trình tìm kiếm, vì:",
+      "A. Không đảm bảo tính toàn vẹn dữ liệu.",
+      "B. Khi thao tác các phép lưu trữ thường xuất hiện dị thường thông tin",
+      "C. Cấu trúc biểu diễn dữ liệu phức tạp.",
+      "D. Có quá nhiều phụ thuộc hàm trong nó"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 18:",
+    "question": [
+      "Quan hệ 2NF không thể chấp nhận được trong quá trình tìm kiếm, vì:",
+      "A. Không thể thưc hiện được các phép cập nhật",
+      "B. Bao đóng phụ thuộc hàm quá lớn.",
+      "C. Có thể không thể chèn thêm thông tin",
+      "D. Không đảm bảo tính toàn vẹn dữ liệu."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 19:",
+    "question": [
+      "Có thể chèn thêm thông tin một loại cáp khi chưa được lắp đặt ?",
+      "A. Không thể được. vì dị thường thông tin.",
+      "B. Không thể được. vì giá trị khoá không xác định",
+      "C. Không thể được. vì mâu thuẫn thông tin.",
+      "D. Có thể chèn được."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 20:",
+    "question": [
+      "Trong quan hệ dạng chuẩn 3NF:",
+      "A. Không tồn tại các thuộc tính không khoá phụ thuộc vào khoá.",
+      "B. Không tồn tại các thuộc tính không khoá phụ thuộc đầy đủ vào khoá và sơ đồ bắc cầu.",
+      "C. Tồn tại các thuộc tính không khoá phụ thuộc vào khoá và sơ đồ bắc cầu.",
+      "D. Tồn tại các thuộc tính không khoá phụ thuộc vào khoá"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 21:",
+    "question": [
+      "Quan hệ 3NF có thể chấp nhận được trong quá trình tìm kiếm, vì:",
+      "A. Thưc hiện được các phép cập nhật",
+      "B. Đảm bảo tính toàn vẹn dữ liệu",
+      "C. Bao đóng phụ thuộc hàm quá lớn",
+      "D. Không xuất hiện di thường thông tin khi thực hiện các phép lưu trữ"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 22:",
+    "question": [
+      "Quan hệ gồm các thuộc tính mã số, họ tên và địa chỉ ở dạng chuẩn nào ?",
+      "A. Dạng chuẩn 3NF",
+      "B. Dạng chuẩn 2NF, không là 3NF&nbsp;",
+      "C. &nbsp;Dạng chuẩn 1NF, không là 2NF&nbsp;",
+      "D. Dạng chuẩn 2NF"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 23:",
+    "question": [
+      "Một quan hệ dạng chuẩn 1NF có thể chuyển đổi về nhóm các quan hệ 3NF bằng cách",
+      "A. Loại bỏ các phụ thuộc bắc cầu vào khoá.",
+      "B. Loại bỏ các phụ thuộc không đầy đủ vào khoá",
+      "C. Loại bỏ các phụ thuộc không đầy đủ vào khoá và bắc cầu vào khoá.",
+      "D. Loại bỏ các phụ thuộc đầy đủ vào khoá và bắc cầu vào khoá."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 24:",
+    "question": [
+      "Quá trình chuyển quan hệ 1NF về 3NF là quá trình:",
+      "A. Loại bỏ dị thường thông tin và không tổn thất thông tin.",
+      "B. Loại bỏ dị thường thông tin và tổn thất thông tin.",
+      "C. Loại bỏ dị thường thông tin",
+      "D. Không tổn thất thông tin."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 25:",
+    "question": [
+      "Ngôn ngữ thao tác dữ liệu là:",
+      "A. Một tập các ký hiệu biểu diễn dữ liệu",
+      "B. Một tập các quy tắc biểu diễn dữ liệu.",
+      "C. Một tập các phép toán dùng để thao tác trên các hệ cơ sở dữ liệu.",
+      "D. Một tập các phép toán dùng để cập nhật, bổ sung trên các hệ cơ sở dữ liệu."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 26:",
+    "question": [
+      "Các toán hạng trong các phép toán là:",
+      "A. Các thuộc tính",
+      "B. Các biểu thức",
+      "C. Các bộ n_giá trị",
+      "D. Các quan hệ"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 27:",
+    "question": [
+      "Kết quả của các phép thao tác dữ liệu là:",
+      "A. Quan hệ",
+      "B. Tệp dữ liệu",
+      "C. Chuỗi dữ liệu.",
+      "D. Cơ sở dữ liệu"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 28:",
+    "question": [
+      "Phép chèn thêm là phép toán:",
+      "A. Chèn vào CSDL một số thông tin về một đối tượng",
+      "B. Chèn vào CSDL các thuộc tính mới.",
+      "C. Chèn vào CSDL một số thông tin tuỳ ý",
+      "D. Chèn vào CSDL từ vùng đệm chứa các thông tin về một bản ghi cụ thể."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 29:",
+    "question": [
+      "Phép xoá là phép toán",
+      "A. Xoá một thuộc tính hay xoá một nhóm các thuộc tính.",
+      "B. Xoá một quan hệ hay xoá một nhóm các quan hệ",
+      "C. Xoá một hệ CSDL",
+      "D. Xoá một bộ hay xoá một nhóm các bộ."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 30:",
+    "question": [
+      "Phép sửa đổi là phép toán:",
+      "A. Sửa đổi giá trị của một bộ hay một nhóm các bộ.",
+      "B. Sửa đổi giá trị của một số thuộc tính.",
+      "C. Sửa đổi mô tả các thuộc tính.",
+      "D. Sửa đổi giá trị của một quan hệ hay một nhóm các quan hệ"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 31:",
+    "question": [
+      "Phép chọn SELECT là phép toán:",
+      "A. Tạo một quan hệ mới từ quan hệ nguồn.",
+      "B. Tạo một quan hệ mới, thoả mãn một tân từ xác định.",
+      "C. Tạo một nhóm các phụ thuộc.",
+      "D. Tạo một quan hệ mới, các bộ được rút ra một cách duy nhất từ quan hệ nguồn"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 32:",
+    "question": [
+      "Phép chiếu PROJECT là phép toán:",
+      "A. Tạo một quan hệ mới, các thuộc tính là các thuộc tính quan hệ nguồn",
+      "B. Tạo một quan hệ mới, các bộ của quan hệ nguồn bỏ đi những bộ trùng lặp",
+      "C. Tạo một quan hệ mới, thoả mãn một tân từ xác định.",
+      "D. Tạo một quan hệ mới, các thuộc tính được biến đổi từ quan hệ nguồn."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 33:",
+    "question": [
+      "Phép kết nối JOIN là phép toán:",
+      "A. Tạo một quan hệ mới,",
+      "B. Tạo một quan hệ mới, các thuộc tính là các thuộc tính quan hệ nguồn.",
+      "C. Tạo một quan hệ mới, thoả mãn một tân từ xác định.",
+      "D. Tạo một quan hệ mới, kêt nối nhiều quan hệ trên miền thuộc tính chung"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 34:",
+    "question": [
+      "Kết nối bằng nhau các quan hệ theo thuộc tính là:",
+      "A. Thực hiện tích Đề Các và&nbsp; phép chọn",
+      "B. Thực hiện tích Đề Các và&nbsp; phép chiếu",
+      "C. Thực hiện phép chiếu và chia",
+      "D. Thực hiện phép chiếu và phép chọn"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 35:",
+    "question": [
+      "Trong SQL, ngôn ngữ định nghĩa dữ liệu bao gồm các chức năng:",
+      "A. Tạo, sửa và xóa cấu trúc quan hệ. Bảo mật và quyền truy nhập.&nbsp;",
+      "B. Bảo mật và quyền truy nhập.",
+      "C. Tạo, sửa và xóa cấu trúc quan hệ. Thêm cột, sửa cột và xoá cột",
+      "D. Tạo, sửa và xóa các bộ quan hệ. Bảo mật và quyền truy nhập."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 36:",
+    "question": [
+      "Trong SQL, ngôn ngữ thao tác dữ liệu DML bao gồm các chức năng:",
+      "A. Truy vấn thông tin, thêm, sửa, xoá dữ liệu",
+      "B. Bảo mật và quyền truy nhập.",
+      "C. Tạo, sửa và xóa cấu trúc quan hệ.",
+      "D. Tạo, sửa và xóa cấu trúc và đảm bảo bảo mật và quyền truy nhập."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 37:",
+    "question": [
+      "Thứ tự đúng trong câu lệnh SELECT",
+      "A. SELECT, FROM , GROUP BY&nbsp;&nbsp; HAVING, WHERE , ORDER&nbsp; BY&nbsp;",
+      "B. SELECT, FROM ,WHERE , GROUP BY&nbsp;&nbsp; HAVING&nbsp; , ORDER&nbsp; BY&nbsp;",
+      "C. SELECT, FROM, GROUP BY HAVING , ORDER BY",
+      "D. SELECT, FROM , GROUP BY&nbsp;&nbsp; HAVING&nbsp; , ORDER BY"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 38:",
+    "question": [
+      "Các bước thực hiện đúng trong câu lệnh SELECT",
+      "A. Tích Đề các, phép toán chọn, theo nhóm, sắp xếp và phép chiếu&nbsp; &nbsp; &nbsp;&nbsp;",
+      "B. Tích Đề các, phép toán chọn, theo nhóm, phép chiếu và sắp xếp&nbsp;",
+      "C. Phép toán chọn, tích Đề các, theo nhóm, sắp xếp và phép chiếu&nbsp;",
+      "D. Phép toán chọn, tích Đề các, theo nhóm, phép chiếu và sắp xếp"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 39:",
+    "question": [
+      "Phép toán tập hợp trong mệnh đề WHERE bao gồm:",
+      "A. Các phép số học và các phép so sánh",
+      "B. Các phép đại số quan hệ",
+      "C. Các phép so sánh.",
+      "D. Biểu thức đại số"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 40:",
+    "question": [
+      "Các phép toán gộp nhóm được sử dụng sau mệnh đề:",
+      "A. SELECT",
+      "B. WHERE",
+      "C. GROUP BY",
+      "D. FROM"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 41:",
+    "question": [
+      "Phép chọn được thực hiện sau mệnh đề nào trong SELECT - FROM - WHERE",
+      "A. GROUP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BY HAVING",
+      "B. SELECT",
+      "C. WHERE",
+      "D. FROM"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 42:",
+    "question": [
+      "Phép chiếu được thực hiện sau mệnh đề nào trong SELECT - FROM - WHERE",
+      "A. FROM",
+      "B. SELECT",
+      "C. GROUP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BY HAVING",
+      "D. WHERE"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 43:",
+    "question": [
+      "Mệnh đề GROUP BY ... HAVING",
+      "A. Phân hoạch các bộ của một quan hệ thành các nhóm riêng biệt",
+      "B. Áp dụng các phép toán gộp nhóm.",
+      "C. Phân hoạch các bộ của một quan hệ thành các nhóm riêng biệt và áp dụng các phép toán gộp cho các nhóm.",
+      "D. Tách các quan hệ thành các quan hệ con, không tổn thất thông tin"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 44:",
+    "question": [
+      "Ngôn ngữ đinh nghĩa dữ liệu - DDL (Data Definition Language).",
+      "A. Được đặc tả bằng một ngôn ngữ dữ liệu",
+      "B. Được đặc tả bằng một ngôn ngữ, một phần của hệ quản trị cơ sở dữ liệu.",
+      "C. Được đặc tả bằng một phần của hệ quản trị cơ sở dữ liệu.",
+      "D. Được đặc tả bằng cách chương trùnh ứng dụng"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 45:",
+    "question": [
+      "Tối ưu hoá câu hỏi truy vấn dữ liệu là:",
+      "A. Quá trình biến đổi câu hỏi về dạng quan hệ",
+      "B. Quá trình biến đổi câu hỏi về dạng đơn giản",
+      "C. Quá trình biến đổi câu hỏi về dạng biểu thức quan hệ.",
+      "D. Quá trình biến đổi câu hỏi sao cho chi phí thời gian thực hiện là ít nhất"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 46:",
+    "question": [
+      "Sự cần thiết phải tối ưu hoá câu hỏi:",
+      "A. Nâng cao hiệu suất các phiên làm việc của người sử dụng.",
+      "B. Tìm kiếm và truy xuất dữ liệu tại các thiết bị đầu cuối.",
+      "C. Chia sẻ thông tin nhiều người sử dụng",
+      "D. Tối ưu về không gian lưu trữ."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 47:",
+    "question": [
+      "Tối ưu theo nghĩa biến đổi một biểu thức đại số quan hệ:",
+      "A. Cho cùng một kết quả với chi phí thời gian thực hiện và sử dụng bộ nhớ ít hơn.",
+      "B. Cho cùng một kết quả, không tổn thất thông tin.",
+      "C. Với chi phí thời gian ít hơn rất nhiều",
+      "D. Cho cùng một kết quả với chi phí bộ nhớ không nhiều"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 48:",
+    "question": [
+      "Tối ưu hoá câu hỏi bằng cách",
+      "<br>\n<br>\n<br>\n&nbsp;",
+      "A. Thực hiện các phép chiếu và chọn, tiếp sau mới thực hiện phép kết nối.",
+      "B. Thực hiện các phép toán đại số quan hệ.",
+      "C. Bỏ đi các phép kết nối hoặc tích Đề các có chi phí lớn",
+      "D. Thực hiện biến đổi không làm tổn thất thông tin."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 49:",
+    "question": [
+      "Nguyên tắc đánh giá tối ưu hóa biểu thức quan hệ:",
+      "<br>\n<br>\n<br>\n&nbsp;",
+      "A. Thực hiện các phép kết nối bằng nhau",
+      "B. Ưu tiên thực hiện các phép chiếu và chọn",
+      "C. Thực hiện phép tích Đề các",
+      "D. Nhóm các phép tích và chiếu liên tiép thành một phép toán duy nhất."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 50:",
+    "question": [
+      "Khi thực hiện các phép toán trong một biểu thức quan hệ, thứ tự ưu tiên là:",
+      "A. Phép kết nối được ưu tiên hơn so với phép chọ và chiếu",
+      "B. Các phép toán một ngôi có thứ tự ưu tiên cao hơn so với phép toán hai ngôi.",
+      "C. Phụ thuộc vào vị trí của các phép toán",
+      "D. Phép kết nối được ưu tiên hơn so với phép hợp, phép giao"
+    ],
+    "answer": "B"
+  }
+]

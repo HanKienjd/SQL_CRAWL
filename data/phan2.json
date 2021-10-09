@@ -1,0 +1,556 @@
+[
+  {
+    "Cau": "Câu 1:",
+    "question": [
+      "Mô hình dữ liệu tốt nhất:",
+      "A. Khi thao tác dễ dàng nhất.",
+      "B. Không tổn thất thông tin.",
+      "C. Phụ thuộc vào yêu cầu truy xuất và khai thác thông tin.",
+      "D. Độc lập dữ liệu"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 2:",
+    "question": [
+      "Mô hình dữ liệu nào có khả năng hạn chế sự dư thừa dữ liệu tốt hơn.",
+      "A. Tất cả các loại mô hình dữ liệu.",
+      "B. Mô hình dữ liệu hướng đối tượng.",
+      "C. Mô hình cơ sở dữ liệu phân cấp",
+      "D. Mô hình cơ sỏ dữ liệu phân tán."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 3:",
+    "question": [
+      "Mô hình dữ liệu nào không chấp nhận mối quan hệ nhiều - nhiều.",
+      "A. Mô hình dữ liệu mạng",
+      "B. Cơ sở dữ liệu phân cấp.",
+      "C. Tất cả các mô hình dữ liệu.",
+      "D. Cơ sở dữ liệu phân tán."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 4:",
+    "question": [
+      "Mô hình CSDL phân cấp là mô hình:",
+      "A. Dữ liệu được biểu diễn bằng con trỏ.",
+      "B. Dữ liệu được biểu diễn bằng cấu trúc cây.",
+      "C. Dữ liệu được biểu diễn bằng mối quan hệ thực thể",
+      "D. Dữ liệu được biểu diễn bằng bảng"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 5:",
+    "question": [
+      "Trong mô hình CSDL phân cấp có thể:",
+      "A. Không có bản ghi gốc.",
+      "B. Tồn tại các loại cây không chứa gốc và phụ thuộc.",
+      "C. Các bản ghi phụ thuộc chỉ tồn tại khi và chỉ khi tồn tại bản ghi gốc.",
+      "D. Tồn tại các loại cây chỉ có các bản ghi phụ thuộc."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 6:",
+    "question": [
+      "Điều gì sẽ xẩy ra khi loại bỏ bản ghi gốc duy nhất trong một cây.",
+      "A. Mâu thuẫn thông tin.",
+      "B. Dư thừa thông tin.",
+      "C. Không toàn vẹn dữ liệu.",
+      "D. Mất thông tin"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 7:",
+    "question": [
+      "Mất thông tin khi xoá bản ghi phụ thuộc trong trường hợp:",
+      "A. Xoá bản ghi gốc.",
+      "B. Xoá tất cả các bản ghi phụ thuộc",
+      "C. Xoá cấu trúc cây phân cấp.",
+      "D. Xoá bản ghi phụ thuộc duy nhất."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 8:",
+    "question": [
+      "Tìm kiếm thông tin trong CSDL phân cấp:",
+      "A. CSDL phân cấp càng lớn thì tìm kiếm càng phức tạp.",
+      "B. Đơn giản, tiện lợi.",
+      "C. Dễ thao tác, dễ sử dụng",
+      "D. Nhanh chóng, chính xác."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 9:",
+    "question": [
+      "Trong mô hình phân cấp dữ liệu được biểu diễn:",
+      "A. Trong mỗi một cây, một bản gốc và bản ghi phụ thuộc.",
+      "B. Trong một tệp duy nhất theo cấu trúc cây.",
+      "C. Trong nhiều cây",
+      "D. Trong nhiều tệp theo cấu trúc cây."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 10:",
+    "question": [
+      "Khi thao tác bằng ngôn ngữ thao tác dữ liệu trên CSDL phân cấp:",
+      "A. Có nhiều khả năng xẩy ra di thường thông tin.",
+      "B. Đảm bảo tính toàn vẹn của dữ liệu.&nbsp;",
+      "C. Đảm bảo tính độc lập của dữ liệu&nbsp;",
+      "D. Đảm bảo tính ổn định"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 11:",
+    "question": [
+      "Đặc trưng cấu trúc của mô hình mạng là:",
+      "A. Chứa các liên kết một - một và một - nhiều.",
+      "B. Chứa các liên kết một - một, một - nhiều và nhiều - nhiều.&nbsp;",
+      "C. Chứa các liên kết một - một, một - nhiều và nhiều - nhiều.&nbsp;",
+      "D. Chứa các liên kết nhiều - một và một - nhiều."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 12:",
+    "question": [
+      "Biểu diễn dữ liệu trong mô hình CSDL mạng:",
+      "A. Bằng các bảng 2 chiều.",
+      "B. Các mối nối liên kết giữa các bản ghi, tạo thành một đồ thị có hướng.",
+      "C. Bằng các ký hiệu biểu diễn.",
+      "D. Các mối nối liên kết giữa các bản ghi theo cấu trúc cây."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 13:",
+    "question": [
+      "Trong CSDL mạng, khi thêm các bản ghi mới:",
+      "A. Mâu thuẫn thông tin.",
+      "B. Dư thừa thông tin.",
+      "C. Đảm bảo được tính nhất quán và tính toàn vẹn của dữ liệu.",
+      "D. Không đảm bảo tính nhất quán và toàn vẹn của dữ liệu."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 14:",
+    "question": [
+      "Trong CSDL mạng, khi xoá các bản ghi:",
+      "A. Không toàn vẹn dữ liệu.",
+      "B. Làm mất thông tin",
+      "C. Mâu thuẫn thông tin sẽ xuất hiện",
+      "D. Đảm bảo được tính nhất quán và tính toàn vẹn của dữ liệu."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 15:",
+    "question": [
+      "Trong CSDL mạng, khi thực hiện các phép tìm kiếm:",
+      "A. Câu hỏi và kết quả các câu hỏi tìm kiếm không đối xứng với nhau.",
+      "B. CSDL càng lớn thì tìm kiếm càng phức tạp.",
+      "C. Câu hỏi và kết quả các câu hỏi tìm kiếm thường đối xứng với nhau.",
+      "D. Không phức tạp."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 16:",
+    "question": [
+      "Cấu trúc dữ liệu trong mô hình CSDL mạng:",
+      "A. Quá phức tạp vì quá nhiều liên kết giữa các thực thể",
+      "B. Chứa 2 thực thể.",
+      "C. Quá phức tạp vì quá nhiều các thực thể.",
+      "D. Chứa n thực thể."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 17:",
+    "question": [
+      "Trong mô hình cơ sở dữ liệu quan hệ:",
+      "A. Thứ tự của các cột là quan trọng.",
+      "B. Thứ tự của các cột là không quan trọng.",
+      "C. Thứ tự của các hàng là không quan trọng.",
+      "D. Thứ tự của các hàng là quan trọng."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 18:",
+    "question": [
+      "Cấu trúc dữ liệu quan hệ là:",
+      "A. Liên kết giữa các bộ được biểu diễn duy nhất bằng các giá trị trong các cột.",
+      "B. Mối liên kết giữa các bộ.",
+      "C. Mối liên kết hình xây",
+      "D. Mối liên kết giữa các cột."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 19:",
+    "question": [
+      "Dữ liệu trong mô hình quan hệ:",
+      "A. Được biểu diễn theo cấu trúc hình cây.",
+      "B. Được biểu diễn một cách duy nhất.",
+      "C. Được biểu diễn theo cấu trúc mô hình mạng.",
+      "D. Được biểu diễn nhiều kiểu khác nhau."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 20:",
+    "question": [
+      "Ngôn ngữ thao tác dữ liệu :",
+      "A. Là các phép toán được xây dựng trên đại số quan hệ.",
+      "B. Là các phép chèn thêm, sửa đổi và loại bỏ.",
+      "C. Là các phép toán số học",
+      "D. Là các phép toán: hợp, giao, trừ..."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 21:",
+    "question": [
+      "Khi thực hiện các phép lưu trữ trên quan hệ:",
+      "A. Dị thường thông&nbsp; tin, không bảo đảm được tính toàn vẹn dữ liệu.",
+      "B. Không dị thường thông&nbsp; tin, bảo đảm được tính toàn vẹn dữ liệu.",
+      "C. Dị thường thông tin, không bảo đảm được việc thực hiện truy vấn dữ liệu.",
+      "D. Không dị thường thông tin, là bảo đảm được tính độc lập dữ liệu"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 22:",
+    "question": [
+      "Kết quả của các thao tác dữ liệu là:",
+      "A. Một biểu thức.",
+      "B. Một File",
+      "C. Một quan hệ.",
+      "D. Nhiều quan hệ."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 23:",
+    "question": [
+      "Ngôn ngữ thao tác dữ liệu quan hệ:",
+      "A. Không toàn vẹn dữ liệu",
+      "B. Đơn giản nhưng không tiện lợi cho người sử dụng.",
+      "C. Phức tạp, tổn thất thông tin.",
+      "D. Đơn giản và thụân tiện cho người sử dụng."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 24:",
+    "question": [
+      "Mô hình thực thể quan hệ cho phép mô tả:",
+      "A. Bộ sưu tập các loại dữ liệu của một tổ chức.",
+      "B. Cấu trúc hệ thống cơ sở dữ liệu.",
+      "C. Hệ thống thông tin quan lý của tổ chức.",
+      "D. Lược đồ khái niệm của một tổ chức."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 25:",
+    "question": [
+      "Mô hình thực thể - quan hệ cơ bản bao gồm các lớp đối tượng:",
+      "A. Thực thể và thuộc tính.",
+      "B. Môi trường và ranh giới môi trường&nbsp;",
+      "C. Thực thể, mối quan hệ và thuộc tính.&nbsp;",
+      "D. Các mối quan hệ."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 26:",
+    "question": [
+      "Thực thể là:",
+      "A. Các đối tượng và mối liên kết giữa các đối tượng.",
+      "B. Các đối tượng dữ liệu",
+      "C. Các mối liên kết giữa các đối tượng.",
+      "D. Các quan hệ"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 27:",
+    "question": [
+      "Khẳng định nào là phụ thuộc hàm:",
+      "A. Họ và tên -&gt;&nbsp;Số chứng minh thư",
+      "B. Họ và tên&nbsp;-&gt;&nbsp;Địa chỉ",
+      "C. Họ và tên&nbsp;-&gt;&nbsp;Số điện thoại nhà riêng",
+      "D. Số chứng minh thư&nbsp;-&gt;&nbsp;Họ và tên"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 28:",
+    "question": [
+      "Hệ tiên đề Armstrong cho các phụ thuộc hàm gồm các quy tắc:",
+      "&nbsp;",
+      "&nbsp;",
+      "A. Phản xạ, hợp và tách.",
+      "B. Phản xạ, bắc cầu, hợp và tách.&nbsp;&nbsp;",
+      "C. Phản xạ, gia tăng, hợp và tách.",
+      "D. Phản xạ, gia tăng, bắc cầu."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 29:",
+    "question": [
+      "Quy tắc gia tăng trong hệ tiên đề Armstrong",
+      "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+      "A. Nếu&nbsp; A -&gt; B =&gt; B&nbsp;-&gt;&nbsp;A",
+      "B. Nếu&nbsp; A&nbsp;-&gt;&nbsp;B =&gt; A&nbsp;&nbsp;-&gt;&nbsp;BC&nbsp; &nbsp; &nbsp; &nbsp;",
+      "C. Nếu&nbsp; A&nbsp;&nbsp;-&gt;&nbsp;B =&gt; BC -&gt; A&nbsp; &nbsp; &nbsp;&nbsp;",
+      "D. Nếu&nbsp; A -&gt; B =&gt; AC &nbsp;-&gt;&nbsp;B"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 30:",
+    "question": [
+      "Quy tắc bắc cầu trong hệ tiên đề Armstrong:&nbsp;&nbsp;",
+      "&nbsp;",
+      "A. Nếu&nbsp; A -&gt; B và B&nbsp;-&gt;&nbsp;C =&gt; A&nbsp;-&gt;&nbsp;C",
+      "B. Nếu&nbsp; A&nbsp;-&gt;&nbsp;B và B&nbsp;-&gt;&nbsp;C =&gt; AC&nbsp;-&gt;&nbsp;B&nbsp;-&gt;&nbsp;C",
+      "C. Nếu&nbsp; A&nbsp;&nbsp;-&gt;&nbsp;B và&nbsp; B -&gt;&nbsp;C =&gt; AB&nbsp;",
+      "D. Nếu&nbsp; A&nbsp;-&gt;&nbsp;B và B&nbsp;-&gt;&nbsp;C =&gt; AC&nbsp;-&gt;&nbsp;BC."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 31:",
+    "question": [
+      "Giá trị các thành phần của khoá quy định:",
+      "A. Có thể nhận giá trị null",
+      "B. Không thể nhận giá trị null hay các giá trị không xác định.",
+      "C. Có thể nhận giá trị null hay các giá trị không xác định.",
+      "D. Không thể nhận giá trị null nhưng có thể nhận các giá trị không xác định"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 32:",
+    "question": [
+      "Các thuộc tính khóa là",
+      "A. Các thuộc tính không được chứa trong khóa",
+      "B. Các thuộc tính khoá",
+      "C. Các thuộc tính không khóa.",
+      "D. Các phần tử của khóa."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 33:",
+    "question": [
+      "Mục tiêu của cơ sở dữ liệu là gì",
+      "A. Tính toàn vẹn của dữ liệu.",
+      "B. Phản ánh trung thực thế giới hiện thực dữ liệu",
+      "C. Tính độc lập của dữ liệu.",
+      "D. Tính phụ thuộc dữ liệu."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 34:",
+    "question": [
+      "Quá trình tách không làm tổn thất thông tin theo nghĩa:",
+      "A. Quan hệ gốc được khôi phục từ các quan hệ chiếu.bằng phép kết nối tự nhiên",
+      "B. Quan hệ gốc được khôi phục chính xác từ các quan hệ chiếu.",
+      "C. Quan hệ gốc được khôi phục từ các quan hệ chiếu.bằng phép kết nối",
+      "D. Quan hệ gốc được khôi phục từ các quan hệ chiếu.bằng phép chiếu và chọn"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 35:",
+    "question": [
+      "Cần thiết phải chuẩn hoá dữ liệu vì:",
+      "A. Giá trị khoá nhận giá trị null hay giá trị không xác định",
+      "B. Khi thực hiện các phép lưu trữ trên các quan hệ chưa được chuẩn hoá thường xuất hiện các dị thường thông tin",
+      "C. Khi thực hiện các phép tách - kết nối tự nhiiên các quan hệ",
+      "D. Khi thực hiện các phép tìm kiếm, xuất hiện các dị thường thông tin."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 36:",
+    "question": [
+      "Dị thường thông tin là nguyên nhân:",
+      "A. Gây cản trở cho việc cập nhật, bổ sung thông tin",
+      "B. Gây cản trở cho việc tách kết nối tổn thất thông tin&nbsp;",
+      "C. Gây cản trở cho việc tìm kiếm, hỏi đáp thông tin.",
+      "D. Gây cản trở cho việc thực hiện các phép lưu trữ"
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 37:",
+    "question": [
+      "Mục tiêu của chuẩn hoá dữ liệu là:",
+      "A. Đảm bảo tính nhất quán dữ liệu",
+      "B. Triệt tiêu mức cao nhất khả năng xuất hiện các dị thường thông tin",
+      "C. Đảm bảo tính bảo mật dữ liệu",
+      "D. Đảm bảo cho việc lưu trữ dữ liệu"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 38:",
+    "question": [
+      "Quá trình chuẩn hoá dữ liệu là quá trình:",
+      "A. Tách lược đồ quan hệ hạn chế thấp nhất tổn thất thông tin&nbsp;",
+      "B. Thực hiện các phép tìm kiếm dữ liệu",
+      "C. Chuyển đổi biểu diễn thông tin trong các dạng khác nhau",
+      "D. Tách lược đồ quan hệ không làm tổn thất thông tin ."
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 39:",
+    "question": [
+      "Cơ sở để chuẩn hoá dựa trên các khái niệm:",
+      "A. Bao đóng các phụ thuộc hàm",
+      "B. Phụ thuộc hàm",
+      "C. Các thuộc tính, bao đóng các thuộc tính.",
+      "D. Khoá và siêu khoá."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 40:",
+    "question": [
+      "&nbsp;Một mô hình CSDL được xem là mô hình chuẩn hoá tốt, nếu:",
+      "A. Không xuất hiện dị thường thông tin.",
+      "B. Đảm bảo tính độc lập dữ liệu.",
+      "C. Mỗi một thuộc tính không khoá phụ thuộc hàm vào khoá.",
+      "D. Mỗi một thuộc tính được biểu diễn trong dạng duy nhất."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 41:",
+    "question": [
+      "&nbsp;Quan hệ R được gọi là dạng chuẩn 1NF, khi và chỉ khi:",
+      "A. Một thuộc tính có nhiều giá trị khác nhau",
+      "B. Các thuộc tính chỉ chứa các giá trị nguyên tố.",
+      "C. Một quan hệ có nhiều hàng",
+      "D. Một quan hệ có nhiều cột."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 42:",
+    "question": [
+      "&nbsp;Quan hệ 1NF không thể chấp nhận được trong quá trình tìm kiếm, vì&nbsp;&nbsp;&nbsp; :",
+      "A. Không đảm bảo tính toàn vẹn dữ liệu.",
+      "B. Khi thao tác các phép lưu trữ thường xuất hiện dị thường thông tin",
+      "C. Cấu trúc biểu diễn dữ liệu phức tạp.",
+      "D. Có quá nhiều phụ thuộc hàm trong nó"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 43:",
+    "question": [
+      "Quan hệ 2NF không thể chấp nhận được trong quá trình tìm kiếm, vì:",
+      "A. Không thể thưc hiện được các phép cập nhật",
+      "B. Bao đóng phụ thuộc hàm quá lớn.",
+      "C. Có thể không thể chèn thêm thông tin",
+      "D. Không đảm bảo tính toàn vẹn dữ liệu."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 44:",
+    "question": [
+      "Có thể chèn thêm thông tin một loại cáp khi chưa được lắp đặt ?",
+      "A. Không thể được. vì dị thường thông tin.",
+      "B. Không thể được. vì giá trị khoá không xác định",
+      "C. Không thể được. vì mâu thuẫn thông tin.",
+      "D. Có thể chèn được."
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 45:",
+    "question": [
+      "Trong quan hệ dạng chuẩn 3NF:",
+      "A. Không tồn tại các thuộc tính không khoá phụ thuộc vào khoá.",
+      "B. Không tồn tại các thuộc tính không khoá phụ thuộc đầy đủ vào khoá và sơ đồ bắc cầu.",
+      "C. Tồn tại các thuộc tính không khoá phụ thuộc vào khoá và sơ đồ bắc cầu.",
+      "D. Tồn tại các thuộc tính không khoá phụ thuộc vào khoá"
+    ],
+    "answer": "B"
+  },
+  {
+    "Cau": "Câu 46:",
+    "question": [
+      "Quan hệ 3NF có thể chấp nhận được trong quá trình tìm kiếm, vì:",
+      "A. Thưc hiện được các phép cập nhật",
+      "B. Đảm bảo tính toàn vẹn dữ liệu",
+      "C. Bao đóng phụ thuộc hàm quá lớn",
+      "D. Không xuất hiện di thường thông tin khi thực hiện các phép lưu trữ"
+    ],
+    "answer": "D"
+  },
+  {
+    "Cau": "Câu 47:",
+    "question": [
+      "&nbsp;Quan hệ gồm các thuộc tính mã số, họ tên và địa chỉ ở dạng chuẩn nào ?:",
+      "A. Dạng chuẩn 3NF",
+      "B. Dạng chuẩn 2NF, không là 3NF&nbsp;",
+      "C. Dạng chuẩn 1NF, không là 2NF",
+      "D. Dạng chuẩn 2NF"
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 48:",
+    "question": [
+      "Một quan hệ dạng chuẩn 1NF có thể chuyển đổi về nhóm các quan hệ 3NF bằng cách:",
+      "A. Loại bỏ các phụ thuộc bắc cầu vào khoá.",
+      "B. Loại bỏ các phụ thuộc không đầy đủ vào khoá",
+      "C. Loại bỏ các phụ thuộc không đầy đủ vào khoá và bắc cầu vào khoá.",
+      "D. Loại bỏ các phụ thuộc đầy đủ vào khoá và bắc cầu vào khoá."
+    ],
+    "answer": "C"
+  },
+  {
+    "Cau": "Câu 49:",
+    "question": [
+      "Quá trình chuyển quan hệ 1NF về 3NF là quá trình:",
+      "A. Loại bỏ dị thường thông tin và không tổn thất thông tin.",
+      "B. Loại bỏ dị thường thông tin và tổn thất thông tin.",
+      "C. Loại bỏ dị thường thông tin",
+      "D. Không tổn thất thông tin."
+    ],
+    "answer": "A"
+  },
+  {
+    "Cau": "Câu 50:",
+    "question": [
+      "Ngôn ngữ thao tác dữ liệu là:",
+      "A. Một tập các ký hiệu biểu diễn dữ liệu",
+      "B. Một tập các quy tắc biểu diễn dữ liệu.",
+      "C. Một tập các phép toán dùng để thao tác trên các hệ cơ sở dữ liệu.",
+      "D. Một tập các phép toán dùng để cập nhật, bổ sung trên các hệ cơ sở dữ liệu."
+    ],
+    "answer": "C"
+  }
+]
